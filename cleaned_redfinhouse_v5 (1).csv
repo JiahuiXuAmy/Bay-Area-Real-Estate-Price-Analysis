@@ -1,0 +1,861 @@
+,street,city,state,zipcode,price,bedroom,bath,Sq.ft,price per Sq.Ft,house_size,bed_bath_ratio,price_comparison
+0,1221 Harrison St #20,San Francisco,CA,94110,1035000.0,1,2.0,1439,719.249,small,0.5,lower
+2,1714 24th Ave,San Francisco,CA,94122,2099000.0,5,3.0,2304,911.024,medium,1.667,higher
+3,1934 - 1936 19th Ave,San Francisco,CA,94116,1395000.0,4,3.0,2740,509.124,large,1.333,higher
+4,130 Wilson Ave,San Francisco,CA,94112,875000.0,4,3.0,1400,625.0,small,1.333,lower
+5,1200 Gough St Unit 5 C,San Francisco,CA,94109-6609,795000.0,1,1.0,840,946.429,small,1.0,lower
+6,44 Athens St Unit A & B,San Francisco,CA,94112,925925.0,4,2.0,1320,701.458,small,2.0,lower
+7,137 Prentiss St,San Francisco,CA,94110,1795000.0,4,2.5,1547,1160.31,medium,1.6,higher
+8,2501 30th Ave,San Francisco,CA,94116,1495000.0,3,2.0,1800,830.556,medium,1.5,higher
+9,520 Miramar Ave,San Francisco,CA,94112,2780000.0,4,3.0,2702,1028.868,large,1.333,higher
+10,190 - 192 Collins St,San Francisco,CA,94118,2499900.0,4,4.0,3220,776.366,large,1.0,higher
+11,2646 - 2648 Great Hwy,San Francisco,CA,94116,1750000.0,4,2.0,2550,686.275,large,2.0,higher
+12,250 King St #618,San Francisco,CA,94107,980000.0,2,2.0,1197,818.713,small,1.0,lower
+14,146 Portola Dr #202,San Francisco,CA,94131,688000.0,1,1.0,689,998.549,small,1.0,lower
+15,1645 Pacific Ave Unit 2D,San Francisco,CA,94109,1795000.0,2,2.0,1399,1283.059,small,1.0,higher
+16,333 Main St Unit 4C,San Francisco,CA,94105,839000.0,1,1.0,815,1029.448,small,1.0,lower
+17,1020 Mariposa St #6,San Francisco,CA,94107,1025000.0,1,2.0,1266,809.637,small,0.5,lower
+18,733 Filbert St #6,San Francisco,CA,94133,1149000.0,2,2.0,1208,951.159,small,1.0,higher
+19,376 Ivy St,San Francisco,CA,94102,1099000.0,2,2.0,1399,785.561,small,1.0,higher
+20,283 Flournoy St,San Francisco,CA,94112,999800.0,5,2.0,1662,601.564,medium,2.5,lower
+21,1545 Lincoln Way #3,San Francisco,CA,94122,1498000.0,3,2.0,1445,1036.678,small,1.5,higher
+23,1826 44th Ave,San Francisco,CA,94122,1288000.0,2,1.0,1024,1257.812,small,2.0,higher
+24,1350 California St #406,San Francisco,CA,94109,1048000.0,2,2.0,1165,899.571,small,1.0,lower
+25,1177 California St #905,San Francisco,CA,94108,650000.0,1,1.0,649,1001.541,small,1.0,lower
+26,1591 21st Ave,San Francisco,CA,94122,1198000.0,2,1.0,1340,894.03,small,2.0,higher
+27,55 Ora Way Unit B107,San Francisco,CA,94131,382757.0,1,1.0,684,559.586,small,1.0,lower
+28,435 China Basin St #532,San Francisco,CA,94158,1550000.0,2,2.0,1351,1147.298,small,1.0,higher
+29,381 Dolores St,San Francisco,CA,94114,2250000.0,4,2.0,2380,945.378,medium,2.0,higher
+30,146 Portola Dr #101,San Francisco,CA,94131,595000.0,1,1.0,719,827.538,small,1.0,lower
+31,575 Joost Ave,San Francisco,CA,94127,1228000.0,4,4.0,1589,772.813,medium,1.0,higher
+33,50 Lansing St #412,San Francisco,CA,94105,789000.0,1,1.0,714,1105.042,small,1.0,lower
+35,786 Colby St,San Francisco,CA,94134,1500000.0,3,1.0,1064,1409.774,small,3.0,higher
+36,184 Locksley Ave #6,San Francisco,CA,94122,749000.0,1,1.0,671,1116.244,small,1.0,lower
+37,1728 Bryant St,San Francisco,CA,94110,1395000.0,5,3.0,3217,433.634,large,1.667,higher
+39,2121 Laguna St #22,San Francisco,CA,94115,898000.0,1,1.0,740,1213.514,small,1.0,lower
+40,627 Cayuga Ave,San Francisco,CA,94112,995000.0,2,1.0,1315,756.654,small,2.0,lower
+41,148 Flournoy St,Daly City,CA,94014,899000.0,2,2.0,850,1057.647,small,1.0,lower
+42,107 Escolta Way,San Francisco,CA,94116,895000.0,2,1.0,1325,675.472,small,2.0,lower
+43,5696 Diamond Heights Blvd,San Francisco,CA,94131,2168000.0,4,3.5,2435,890.349,medium,1.143,higher
+45,3160 Baker St,San Francisco,CA,94123,2950000.0,4,3.5,1785,1652.661,medium,1.143,higher
+46,231 Edna St,San Francisco,CA,94112,1399000.0,3,2.0,2219,630.464,medium,1.5,higher
+47,301 Main St Unit 11D,San Francisco,CA,94105,1995000.0,2,2.0,1317,1514.806,small,1.0,higher
+48,555 4th St #402,San Francisco,CA,94107,750000.0,1,1.0,670,1119.403,small,1.0,lower
+49,73 Sumner St #402,San Francisco,CA,94103,1399000.0,2,2.0,1415,988.693,small,1.0,higher
+50,1483 Sutter St #712,San Francisco,CA,94109,1200000.0,2,2.0,1336,898.204,small,1.0,higher
+51,135 Valencia St Unit A405,San Francisco,CA,94103,749000.0,2,1.5,980,764.286,small,1.333,lower
+52,301 Main St Unit 16H,San Francisco,CA,94105,1850000.0,2,2.0,1317,1404.708,small,1.0,higher
+53,20 Beideman St #105,San Francisco,CA,94115,1098000.0,2,1.5,1050,1045.714,small,1.333,higher
+54,474 Vernon St,San Francisco,CA,94132,1099000.0,2,1.0,1175,935.319,small,2.0,higher
+55,201 Harrison St #219,San Francisco,CA,94105,550000.0,1,1.0,496,1108.871,small,1.0,lower
+56,290 Richland Ave #292,San Francisco,CA,94110,1995000.0,3,2.5,2320,859.914,medium,1.2,higher
+57,4156 - 4158 20th St,San Francisco,CA,94114,995000.0,4,4.0,2750,361.818,large,1.0,lower
+58,590 6th St #209,San Francisco,CA,94103,959000.0,2,2.0,1089,880.624,small,1.0,lower
+59,52 Sharon St,San Francisco,CA,94114,1268000.0,2,1.0,1242,1020.934,small,2.0,higher
+60,927 Hayes St,San Francisco,CA,94117,1395000.0,3,2.0,1620,861.111,medium,1.5,higher
+61,250 King St #1418,San Francisco,CA,94107,1180000.0,2,2.0,1208,976.821,small,1.0,higher
+62,144 Belvedere St,San Francisco,CA,94117,1595000.0,3,2.0,1575,1012.698,medium,1.5,higher
+64,55 Newton St,San Francisco,CA,94112,1650000.0,4,3.0,2230,739.91,medium,1.333,higher
+65,683 Spruce St,San Francisco,CA,94118,2795000.0,4,3.0,2100,1330.952,medium,1.333,higher
+66,855 Folsom St #120,San Francisco,CA,94107,849000.0,1,1.5,898,945.434,small,0.667,lower
+67,1964 Grove St,San Francisco,CA,94117,1445000.0,2,1.5,1468,984.332,small,1.333,higher
+68,488 Folsom St #3704,San Francisco,CA,94105,2298000.0,2,2.5,1544,1488.342,medium,0.8,higher
+69,280 Juanita Way,San Francisco,CA,94127,988000.0,3,1.0,1757,562.322,medium,3.0,lower
+70,1595 Dolores St,San Francisco,CA,94110,2495000.0,3,2.5,1923,1297.452,medium,1.2,higher
+72,436 University St,San Francisco,CA,94134,1100000.0,3,2.0,1423,773.015,small,1.5,higher
+73,627 Moscow St,San Francisco,CA,94112,1268000.0,5,4.0,1705,743.695,medium,1.25,higher
+74,3797 20th St,San Francisco,CA,94110,1750000.0,3,2.0,1425,1228.07,small,1.5,higher
+75,280 Spear St Unit 32C,San Francisco,CA,94105,1965000.0,2,2.0,1266,1552.133,small,1.0,higher
+76,1366 32nd Ave,San Francisco,CA,94122,1298000.0,4,2.5,1712,758.178,medium,1.6,higher
+77,2057 15th St Unit A,San Francisco,CA,94114,1195000.0,3,2.0,1334,895.802,small,1.5,higher
+78,485 Tehama St #2,San Francisco,CA,94103,799000.0,1,1.5,862,926.914,small,0.667,lower
+79,300 Berry St #814,San Francisco,CA,94158,749995.0,1,1.0,664,1129.511,small,1.0,lower
+80,95 Ora Way Unit F309,San Francisco,CA,94131,326584.0,1,1.0,480,680.383,small,1.0,lower
+81,2555 Leavenworth St #106,San Francisco,CA,94133,649000.0,1,1.0,667,973.013,small,1.0,lower
+82,840 42nd Ave,San Francisco,CA,94121,2295000.0,4,3.0,2218,1034.716,medium,1.333,higher
+83,3737 Rivera St,San Francisco,CA,94116,1195000.0,3,2.0,1195,1000.0,small,1.5,higher
+84,260 King St #1501,San Francisco,CA,94107,895000.0,1,1.0,832,1075.721,small,1.0,lower
+85,2171 Sacramento St #3,San Francisco,CA,94109,890000.0,1,1.0,610,1459.016,small,1.0,lower
+86,82 Stanford Heights Ave,San Francisco,CA,94127,1895000.0,4,3.0,2600,728.846,large,1.333,higher
+87,721 Dwight St,San Francisco,CA,94134,888000.0,2,1.0,837,1060.932,small,2.0,lower
+88,644 Clayton St,San Francisco,CA,94117,999000.0,2,1.0,1480,675.0,small,2.0,lower
+89,1349 Taraval St,San Francisco,CA,94116,899000.0,2,2.0,1100,817.273,small,1.0,lower
+90,2125 Leavenworth St,San Francisco,CA,94133,1149000.0,1,1.5,988,1162.955,small,0.667,higher
+91,301 Main St Unit 31F,San Francisco,CA,94105,1825000.0,2,2.0,1323,1379.441,small,1.0,higher
+92,1108 Treat Ave,San Francisco,CA,94110,1095000.0,4,3.0,1525,718.033,medium,1.333,higher
+93,588 Minna St #701,San Francisco,CA,94103,819000.0,2,2.0,998,820.641,small,1.0,lower
+94,588 Minna St #706,San Francisco,CA,94103,599000.0,1,1.0,690,868.116,small,1.0,lower
+95,1070 Post St #1,San Francisco,CA,94109,875000.0,3,2.0,994,880.282,small,1.5,lower
+96,2655 15th Ave,San Francisco,CA,94127,1595000.0,2,1.5,1463,1090.226,small,1.333,higher
+97,691 Madrid St,San Francisco,CA,94112,799000.0,3,2.0,875,913.143,small,1.5,lower
+98,258 Vienna St,San Francisco,CA,94112,688000.0,3,2.0,1485,463.3,small,1.5,lower
+99,2760 19th Ave #56,San Francisco,CA,94132,1295000.0,2,2.0,1595,811.912,medium,1.0,higher
+100,773 London St,San Francisco,CA,94112,1495000.0,5,3.0,2202,678.928,medium,1.667,higher
+101,450 Hayes St Unit 2L,San Francisco,CA,94102,895000.0,1,1.0,706,1267.705,small,1.0,lower
+102,1502 Noe St,San Francisco,CA,94131,1998000.0,3,2.0,1350,1480.0,small,1.5,higher
+104,1519 47th Ave,San Francisco,CA,94122,1395000.0,2,1.0,1550,900.0,medium,2.0,higher
+105,315 Parnassus Ave Unit B,San Francisco,CA,94117,1050000.0,2,1.0,834,1258.993,small,2.0,equal
+107,1517 12th Ave,San Francisco,CA,94122,2080000.0,5,3.0,2572,808.709,large,1.667,higher
+108,546 Utah St,San Francisco,CA,94110,2195000.0,4,3.5,2325,944.086,medium,1.143,higher
+110,66 Cleary Ct #209,San Francisco,CA,94109,825000.0,3,2.0,1100,750.0,small,1.5,lower
+111,1729 Revere Ave,San Francisco,CA,94124,995000.0,3,2.0,1248,797.276,small,1.5,lower
+112,1971 Clay St,San Francisco,CA,94109,1700000.0,3,2.0,1821,933.553,medium,1.5,higher
+113,463 Mississippi St,San Francisco,CA,94107,1295000.0,3,2.0,1571,824.316,medium,1.5,higher
+114,1859 18th Ave,San Francisco,CA,94122,1295000.0,4,1.5,1707,758.641,medium,2.667,higher
+115,735 - 737 Monterey Blvd,San Francisco,CA,94127,1595000.0,7,4.0,3025,527.273,large,1.75,higher
+116,1211 22nd Ave,San Francisco,CA,94122,1378000.0,2,1.5,1516,908.971,medium,1.333,higher
+118,174 Cayuga Ave,San Francisco,CA,94112,1295000.0,2,1.0,1295,1000.0,small,2.0,higher
+119,1288 Howard St #320,San Francisco,CA,94103,1292000.0,2,2.0,1067,1210.872,small,1.0,higher
+120,4132 3rd St #5,San Francisco,CA,94124,949000.0,2,2.0,1314,722.222,small,1.0,lower
+121,36 Gaviota Way,San Francisco,CA,94127,1495000.0,2,1.0,1300,1150.0,small,2.0,higher
+122,164 - 168 28th St,San Francisco,CA,94131,1950000.0,7,2.0,2709,719.823,large,3.5,higher
+125,1163 - 1169 Alabama St Unit 1169A,San Francisco,CA,94110,749000.0,2,1.0,1039,720.885,small,2.0,lower
+126,54 Glover St,San Francisco,CA,94109,1250000.0,2,1.5,1525,819.672,medium,1.333,higher
+127,25 Ordway St,San Francisco,CA,94134,1298000.0,4,2.0,1853,700.486,medium,2.0,higher
+128,308 Eureka St Unit B,San Francisco,CA,94114,1175000.0,2,1.0,1134,1036.155,small,2.0,higher
+129,66 - 68 Mirabel Ave,San Francisco,CA,94110,999000.0,2,2.0,2420,412.81,medium,1.0,lower
+130,401 Harrison St Unit 11F,San Francisco,CA,94105,1495000.0,2,2.0,1267,1179.953,small,1.0,higher
+131,1150 Sacramento St #303,San Francisco,CA,94108,2595000.0,2,2.0,1868,1389.186,medium,1.0,higher
+132,340 Ritch St #4,San Francisco,CA,94107,899000.0,1,1.5,1107,812.105,small,0.667,lower
+134,401 Harrison St Unit 15B,San Francisco,CA,94105,1625000.0,2,2.0,1312,1238.567,small,1.0,higher
+135,57 - 61 Albion St,San Francisco,CA,94103,1600000.0,7,2.0,3507,456.23,large,3.5,higher
+136,187 - 189 Lee Ave,San Francisco,CA,94112,1095000.0,5,3.0,2060,531.553,medium,1.667,higher
+137,814 Carolina St,San Francisco,CA,94107,1095000.0,1,1.0,650,1684.615,small,1.0,higher
+138,4087 17th St,San Francisco,CA,94114,1700000.0,2,2.0,1945,874.036,medium,1.0,higher
+140,317 Harriet St #1,San Francisco,CA,94103,1250000.0,3,2.0,1498,834.446,small,1.5,higher
+141,301 Mission St Unit 20D,San Francisco,CA,94105,648000.0,1,1.0,678,955.752,small,1.0,lower
+142,266 - 268 Monterey Blvd,San Francisco,CA,94131,1275000.0,4,2.0,2304,553.385,medium,2.0,higher
+144,301 Mission St Unit 45C,San Francisco,CA,94105,2249000.0,2,2.0,1602,1403.87,medium,1.0,higher
+145,2 Mint Plz #401,San Francisco,CA,94103,999000.0,2,2.0,1244,803.055,small,1.0,lower
+147,155 Hale St,San Francisco,CA,94134,799000.0,3,1.0,1767,452.179,medium,3.0,lower
+148,1310 Taylor St,San Francisco,CA,94108,1995000.0,3,2.5,1756,1136.105,medium,1.2,higher
+150,421 Lyon St,San Francisco,CA,94117,1295000.0,2,1.0,1354,956.425,small,2.0,higher
+151,2401 - 2403 Turk Blvd,San Francisco,CA,94118,1995000.0,4,1.0,3250,613.846,large,4.0,higher
+153,1119 Mendell St,San Francisco,CA,94124,985000.0,2,1.0,1500,656.667,medium,2.0,lower
+156,2034 21st Ave,San Francisco,CA,94116,1495000.0,4,2.0,1940,770.619,medium,2.0,higher
+157,137 7th Ave,San Francisco,CA,94118,1750000.0,3,2.0,1501,1165.889,medium,1.5,higher
+160,807 47th Ave #2,San Francisco,CA,94121,569000.0,1,1.0,570,998.246,small,1.0,lower
+161,400 Gaven St,San Francisco,CA,94134,1299000.0,3,2.0,2460,528.049,medium,1.5,higher
+162,1523 39th Ave,San Francisco,CA,94122,1588000.0,3,2.0,1830,867.76,medium,1.5,higher
+163,1370 11th Ave #4,San Francisco,CA,94122,738000.0,2,2.0,790,934.177,small,1.0,lower
+164,356 Collingwood St,San Francisco,CA,94114,1590000.0,3,2.0,1600,993.75,medium,1.5,higher
+166,1545 Pine St #1004,San Francisco,CA,94109,1395000.0,2,2.0,1141,1222.612,small,1.0,higher
+167,318 Spear St Unit 8A,San Francisco,CA,94105,1950000.0,3,3.0,1599,1219.512,medium,1.0,higher
+168,1375 Dolores St,San Francisco,CA,94110,1518000.0,2,2.0,1682,902.497,medium,1.0,higher
+169,1377 Dolores St,San Francisco,CA,94110,1598000.0,2,2.0,1682,950.059,medium,1.0,higher
+170,2220 Santiago St,San Francisco,CA,94116,1298000.0,4,2.0,1550,837.419,medium,2.0,higher
+171,646 Monterey Blvd,San Francisco,CA,94127,1195000.0,2,1.0,1130,1057.522,small,2.0,higher
+172,260 King St #409,San Francisco,CA,94107,725000.0,1,1.0,823,880.923,small,1.0,lower
+173,357 - #Front Chenery St,San Francisco,CA,94131,650000.0,1,1.0,723,899.032,small,1.0,lower
+174,435 China Basin St #335,San Francisco,CA,94158,1349000.0,2,2.0,1176,1147.109,small,1.0,higher
+175,601 4th St #213,San Francisco,CA,94107,1699000.0,2,2.0,2085,814.868,medium,1.0,higher
+176,3 Maddux Ave,San Francisco,CA,94124,999000.0,3,2.0,1234,809.562,small,1.5,lower
+178,201 Harrison St #214,San Francisco,CA,94105,649000.0,1,1.0,719,902.643,small,1.0,lower
+179,65 Villa Ter,San Francisco,CA,94114,2495000.0,3,3.5,1714,1455.659,medium,0.857,higher
+180,520 46th Ave,San Francisco,CA,94121,1095000.0,2,1.0,1045,1047.847,small,2.0,higher
+181,2164 Hyde St #202,San Francisco,CA,94109,2395000.0,2,2.0,1950,1228.205,medium,1.0,higher
+182,30 Jennifer Pl,San Francisco,CA,94107,749000.0,1,1.0,1284,583.333,small,1.0,lower
+184,3110 California St Unit 3A,San Francisco,CA,94115,1369000.0,3,2.0,1308,1046.636,small,1.5,higher
+186,380 14th St #309,San Francisco,CA,94103,849000.0,2,1.0,815,1041.718,small,2.0,lower
+187,380 Country Club Dr,San Francisco,CA,94132,1195000.0,2,1.0,1207,990.058,small,2.0,higher
+189,855 Folsom St #924,San Francisco,CA,94107,849000.0,1,1.5,1020,832.353,small,0.667,lower
+190,1910 Steiner St,San Francisco,CA,94115,1199000.0,2,2.0,1315,911.787,small,1.0,higher
+192,2480 Fulton St #2,San Francisco,CA,94118,769000.0,1,1.0,743,1034.993,small,1.0,lower
+193,1160 Mission St #2203,San Francisco,CA,94103,699000.0,1,1.0,745,938.255,small,1.0,lower
+194,1188 Valencia St #210,San Francisco,CA,94110,799000.0,1,1.0,612,1305.556,small,1.0,lower
+195,568 Athens St,San Francisco,CA,94112,959000.0,4,2.0,1220,786.066,small,2.0,lower
+197,677 4th Ave,San Francisco,CA,94118,1249000.0,2,1.0,1281,975.02,small,2.0,higher
+199,260 King St #429,San Francisco,CA,94107,599000.0,1,1.0,600,998.333,small,1.0,lower
+200,1388 Gough St #508,San Francisco,CA,94109,995000.0,2,2.0,1267,785.32,small,1.0,lower
+201,583 Paris St,San Francisco,CA,94112,1088000.0,3,2.5,1130,962.832,small,1.2,higher
+202,235 Monterey Blvd,San Francisco,CA,94131,1250000.0,3,2.0,2078,601.54,medium,1.5,higher
+203,245 Harkness Ave,San Francisco,CA,94134,1350000.0,5,3.0,2600,519.231,large,1.667,higher
+204,1 Daniel Burnham Ct #511,San Francisco,CA,94109,995000.0,2,2.0,1167,852.614,small,1.0,lower
+205,51 Innes Ct #406,San Francisco,CA,94124,1290000.0,5,2.0,1600,806.25,medium,2.5,higher
+206,85 Summit Way,San Francisco,CA,94132,1399000.0,3,2.5,2133,655.884,medium,1.2,higher
+207,1138 Green St,San Francisco,CA,94109,1625000.0,3,1.5,1450,1120.69,small,2.0,higher
+208,588 12th Ave,San Francisco,CA,94118,2699000.0,4,4.5,2123,1271.314,medium,0.889,higher
+209,712 Haight St,San Francisco,CA,94117,1695000.0,3,2.0,1619,1046.943,medium,1.5,higher
+211,415 Cornwall St,San Francisco,CA,94118,2950000.0,3,3.5,2710,1088.561,large,0.857,higher
+212,3301 - 3311 Cesar Chavez St Unit 3311A,San Francisco,CA,94110,885000.0,2,2.0,1015,871.921,small,1.0,lower
+213,2551 28th Ave,San Francisco,CA,94116,1195000.0,3,2.0,1390,859.712,small,1.5,higher
+214,240 Pixley St,San Francisco,CA,94123,2298000.0,2,2.5,1940,1184.536,medium,0.8,higher
+216,1210 48th Ave,San Francisco,CA,94122,1300000.0,2,1.0,850,1529.412,small,2.0,higher
+217,84 Ervine St,San Francisco,CA,94134,1800000.0,6,3.0,2411,746.578,medium,2.0,higher
+218,223 Gaven St,San Francisco,CA,94134,1588000.0,5,4.0,3045,521.511,large,1.25,higher
+219,300 Beale St #502,San Francisco,CA,94105,1995000.0,2,2.0,1780,1120.787,medium,1.0,higher
+220,923 Central Ave,San Francisco,CA,94115,1695000.0,4,2.0,2465,687.627,medium,2.0,higher
+221,2 Idora Ave,San Francisco,CA,94127,1495000.0,3,2.0,1676,892.005,medium,1.5,higher
+223,437 Vermont St #437,San Francisco,CA,94107,1350000.0,3,2.0,1510,894.04,medium,1.5,higher
+225,1845 Leavenworth St #203,San Francisco,CA,94109,1375000.0,2,1.5,1205,1141.079,small,1.333,higher
+226,1658 41st Ave,San Francisco,CA,94122,1750000.0,4,3.0,1865,938.338,medium,1.333,higher
+227,99 Rausch St #502,San Francisco,CA,94103,650000.0,1,1.0,624,1041.667,small,1.0,lower
+228,454 Lombard St #9,San Francisco,CA,94133,799000.0,1,1.0,700,1141.429,small,1.0,lower
+229,730 Florida St #21,San Francisco,CA,94110,1525000.0,2,2.5,1571,970.719,medium,0.8,higher
+230,141 Marview Way,San Francisco,CA,94131,1798000.0,4,2.0,1810,993.37,medium,2.0,higher
+231,188 Minna St Unit 29C,San Francisco,CA,94105,2800000.0,2,2.5,1670,1676.647,medium,0.8,higher
+232,715 Cayuga Ave,San Francisco,CA,94112,1428000.0,3,2.0,1190,1200.0,small,1.5,higher
+233,201 Harrison St #130,San Francisco,CA,94105,598000.0,1,1.0,708,844.633,small,1.0,lower
+234,170 Thrift St,San Francisco,CA,94112,1298000.0,4,2.0,1845,703.523,medium,2.0,higher
+235,231 Nueva Ave,San Francisco,CA,94134,1148000.0,5,3.0,1550,740.645,medium,1.667,higher
+236,118 Coral Ct,San Francisco,CA,94124,725000.0,4,2.5,1512,479.497,medium,1.6,lower
+237,2491 33rd Ave,San Francisco,CA,94116,1678000.0,5,3.0,1850,907.027,medium,1.667,higher
+238,3501 - 3503 Judah St,San Francisco,CA,94122,1295000.0,4,2.0,2400,539.583,medium,2.0,higher
+239,570 Arlington St,San Francisco,CA,94131,1488000.0,3,2.0,2070,718.841,medium,1.5,higher
+240,10 Santa Barbara Ave,San Francisco,CA,94112,1999999.0,7,3.5,2648,755.287,large,2.0,higher
+243,555 Bartlett St #404,San Francisco,CA,94110,1189000.0,2,2.0,1056,1125.947,small,1.0,higher
+244,425 1st St #4503,San Francisco,CA,94105,2045000.0,2,2.0,1278,1600.156,small,1.0,higher
+245,588 Minna St #202,San Francisco,CA,94103,579000.0,1,1.0,658,879.939,small,1.0,lower
+246,588 Minna St #603,San Francisco,CA,94103,1026000.0,2,2.0,1278,802.817,small,1.0,lower
+247,1011 23Rd St #9,San Francisco,CA,94107,895000.0,1,1.5,1004,891.434,small,0.667,lower
+248,1515 Union St Unit 5E,San Francisco,CA,94123,1395000.0,1,1.0,955,1460.733,small,1.0,higher
+249,300 3rd St #508,San Francisco,CA,94107,699000.0,1,1.0,807,866.171,small,1.0,lower
+251,2079 15th St Unit A,San Francisco,CA,94114,1150000.0,3,2.0,1377,835.149,small,1.5,higher
+252,200 Ellsworth St,San Francisco,CA,94110,1995000.0,5,2.0,2185,913.043,medium,2.5,higher
+253,1420 Webster St #4,San Francisco,CA,94115,650000.0,3,2.0,1050,619.048,small,1.5,lower
+254,3631 Jackson St,San Francisco,CA,94118,2300000.0,3,1.5,1697,1355.333,medium,2.0,higher
+255,1030 - 1032 Balboa St,San Francisco,CA,94118,949000.0,6,3.0,2528,375.396,large,2.0,lower
+257,2301 26th Ave,San Francisco,CA,94116,1520000.0,4,2.0,1936,785.124,medium,2.0,higher
+258,125 Gilbert St #10,San Francisco,CA,94103,750000.0,1,1.5,948,791.139,small,0.667,lower
+259,637 Powell St #202,San Francisco,CA,94108,995000.0,2,1.0,1590,625.786,medium,2.0,lower
+260,2092 - 2098 California St #2094,San Francisco,CA,94115,1050000.0,1,1.0,892,1177.13,small,1.0,equal
+261,239 8th St #12,San Francisco,CA,94103,1049000.0,2,2.5,1433,732.031,small,0.8,lower
+262,44 - 46 Morrell St,San Francisco,CA,94109,995000.0,5,3.0,1560,637.821,medium,1.667,lower
+263,1365 Scott St #1,San Francisco,CA,94115,1024900.0,2,1.5,1011,1013.749,small,1.333,lower
+264,270 Valencia St #301,San Francisco,CA,94103,459000.0,2,1.0,833,551.02,small,2.0,lower
+265,5446 Colony Field Dr,San Jose,CA,95123,830000.0,3,1.5,1260,658.73,small,2.0,lower
+266,1375 Lick Ave #1030,San Jose,CA,95110,620000.0,1,1.0,687,902.475,small,1.0,lower
+267,158 Agustin Narvaez St,San Jose,CA,95136,1398000.0,5,4.0,2178,641.873,medium,1.25,higher
+268,3525 Constance Dr,San Jose,CA,95117,1650000.0,3,2.0,1571,1050.286,medium,1.5,higher
+269,6955 Rockton Ave,San Jose,CA,95119,1575000.0,4,2.5,2368,665.118,medium,1.6,higher
+270,1872 Newbury Park Dr,San Jose,CA,95133,1099950.0,3,3.0,1667,659.838,medium,1.0,higher
+271,2084 Via D Este,San Jose,CA,95130,1800000.0,3,2.0,1216,1480.263,small,1.5,higher
+272,1686 Sierra Rd,San Jose,CA,95131,1180000.0,3,2.0,1215,971.193,small,1.5,higher
+273,2470 Fernwood Ave,San Jose,CA,95128,1349999.0,3,1.0,1134,1190.475,small,3.0,higher
+274,1665 Tierra Buena Dr,San Jose,CA,95121,999888.0,4,2.0,1461,684.386,small,2.0,lower
+275,320 Stonegate Cir Unit CL,San Jose,CA,95110,525000.0,2,1.0,704,745.739,small,2.0,lower
+276,557 Coe Ave,San Jose,CA,95125,1399000.0,2,1.0,1355,1032.472,small,2.0,higher
+277,1495 Carrington Cir,San Jose,CA,95125,1299000.0,2,2.5,1362,953.744,small,0.8,higher
+278,1132 Pascoe Ave,San Jose,CA,95125,1599000.0,3,1.5,1304,1226.227,small,2.0,higher
+279,1703 Valpico Dr,San Jose,CA,95124,1788888.0,4,2.0,1688,1059.768,medium,2.0,higher
+280,1137 Boynton Ave,San Jose,CA,95117,1595000.0,4,2.0,1236,1290.453,small,2.0,higher
+281,1631 Four oaks Rd,San Jose,CA,95131,2000000.0,4,2.5,1994,1003.009,medium,1.6,higher
+282,1991 Jonathan Ave,San Jose,CA,95125,1050000.0,2,1.0,988,1062.753,small,2.0,equal
+283,412 La Pala Pl,San Jose,CA,95127,1299000.0,4,2.0,1554,835.907,medium,2.0,higher
+284,3256 Flintview Ct,San Jose,CA,95148,1249000.0,3,2.0,1120,1115.179,small,1.5,higher
+285,411 Lewis Rd #288,San Jose,CA,95111,289000.0,3,2.0,1344,215.03,small,1.5,lower
+286,1770 Rocky Mountain Ave,Milpitas,CA,95035,1479999.0,4,2.0,1504,984.042,medium,2.0,higher
+287,1294 Collins Ln,San Jose,CA,95129,2099000.0,4,2.5,1798,1167.408,medium,1.6,higher
+288,674 Blackford Ct,San Jose,CA,95117,799000.0,2,2.0,926,862.851,small,1.0,lower
+289,5925 Garces Ave,San Jose,CA,95123,1248000.0,3,2.0,1324,942.598,small,1.5,higher
+290,1895 Wesley Ct,San Jose,CA,95148,950000.0,3,2.0,1287,738.151,small,1.5,lower
+291,977 Terra Bella Ave,San Jose,CA,95125,2499000.0,4,3.0,2884,866.505,large,1.333,higher
+293,1470 Jeffery Ave,San Jose,CA,95118,1399000.0,4,2.0,1363,1026.412,small,2.0,higher
+294,659 Genine Dr,San Jose,CA,95127,999888.0,3,2.0,1324,755.202,small,1.5,lower
+295,1826 Home Gate Dr,San Jose,CA,95148,959900.0,3,2.5,1376,697.602,small,1.2,lower
+297,5487 Judith St #2,San Jose,CA,95123,554900.0,2,1.0,903,614.507,small,2.0,lower
+299,1363 Box Canyon Rd,San Jose,CA,95120,2500000.0,4,2.5,2952,846.883,large,1.6,higher
+300,6313 Desert Flame Dr,San Jose,CA,95120,1388000.0,3,2.0,1534,904.824,medium,1.5,higher
+301,2296 Solace Loop,San Jose,CA,95122,1789000.0,4,3.5,2839,630.151,large,1.143,higher
+302,1945 White Oaks Rd,Campbell,CA,95008,2388000.0,6,4.0,2966,805.125,large,1.5,higher
+303,2057 E San Antonio St,San Jose,CA,95116,649000.0,3,3.0,1312,494.665,small,1.0,lower
+304,66 Quail Hollow Dr #66,San Jose,CA,95128,250000.0,2,2.0,1440,173.611,small,1.0,lower
+305,299 Bayview Ave,San Jose,CA,95127,1499999.0,4,2.5,2020,742.574,medium,1.6,higher
+306,3300 NARVAEZ Ave #86,San Jose,CA,95136,179900.0,2,2.0,1140,157.807,small,1.0,lower
+307,540 Fleming Ave,San Jose,CA,95127,1550000.0,4,2.0,1979,783.224,medium,2.0,higher
+308,1836 Bentley Dr,San Jose,CA,95132,1695000.0,5,2.5,1940,873.711,medium,2.0,higher
+309,590 S 15th St,San Jose,CA,95112,1599000.0,3,2.0,2086,766.539,medium,1.5,higher
+310,1431 Bouret Dr,San Jose,CA,95118,1348888.0,3,2.0,1224,1102.033,small,1.5,higher
+311,970 Kingfisher Dr,San Jose,CA,95125,1295000.0,3,2.0,1720,752.907,medium,1.5,higher
+312,1227 SHERMAN St,San Jose,CA,95110,995000.0,4,3.0,1720,578.488,medium,1.333,lower
+313,283 Laurel Grove Ln,San Jose,CA,95126,995000.0,4,2.5,1700,585.294,medium,1.6,lower
+314,1117 Zinfandel Way,San Jose,CA,95120,1749000.0,4,2.5,2085,838.849,medium,1.6,higher
+315,5390 Pistachio Grove Ct,San Jose,CA,95123,599000.0,2,1.5,950,630.526,small,1.333,lower
+316,4844 Corrales Dr,San Jose,CA,95136,1188000.0,3,2.0,1364,870.968,small,1.5,higher
+318,2125 Limewood Dr,San Jose,CA,95132,1295000.0,3,2.0,1300,996.154,small,1.5,higher
+319,537 Halsey Ave,San Jose,CA,95128,1299999.0,4,2.0,1453,894.7,small,2.0,higher
+320,2082 Emory St,San Jose,CA,95128,1988000.0,5,2.5,2450,811.429,medium,2.0,higher
+322,5178 Shalen Ct,San Jose,CA,95130,1899000.0,5,2.5,1557,1219.653,medium,2.0,higher
+323,5055 Sandy Ln,San Jose,CA,95124,1625000.0,3,2.0,1542,1053.826,medium,1.5,higher
+324,871&873 N 7th St,San Jose,CA,95112,1249800.0,4,2.0,1600,781.125,medium,2.0,higher
+325,289 Bangor Ave,San Jose,CA,95123,1299000.0,3,2.5,1546,840.233,medium,1.2,higher
+326,320 Auburn Way #20,San Jose,CA,95129,599888.0,2,1.5,1099,545.849,small,1.333,lower
+327,2986 Moorpark Ave,San Jose,CA,95128,1699000.0,5,4.0,2142,793.184,medium,1.25,higher
+328,5838 Arapaho Dr,San Jose,CA,95123,1149950.0,3,2.0,1037,1108.92,small,1.5,higher
+329,4919 Country Ln,San Jose,CA,95129,1750000.0,3,2.0,1364,1282.991,small,1.5,higher
+330,281 Belblossom Way,Los Gatos,CA,95032,2595888.0,4,2.5,2094,1239.679,medium,1.6,higher
+331,1286 Ridley Way,San Jose,CA,95125,1898000.0,2,2.0,1412,1344.193,small,1.0,higher
+332,1825 Foxworthy Ave,San Jose,CA,95124,1399950.0,3,2.0,1506,929.582,medium,1.5,higher
+333,2903 Granite Creek Pl,San Jose,CA,95127,875000.0,3,2.0,1350,648.148,small,1.5,lower
+335,144 S 3rd St #536,San Jose,CA,95112,799999.0,2,2.0,1421,562.983,small,1.0,lower
+336,2154 Luz Ave,San Jose,CA,95116,565000.0,2,1.5,956,591.004,small,1.333,lower
+337,144 S 3rd St #514,San Jose,CA,95112,629000.0,1,1.0,1151,546.481,small,1.0,lower
+338,6352 Whaley Dr,San Jose,CA,95135,698000.0,2,2.0,1197,583.124,small,1.0,lower
+339,2105 Amberwood Ln,San Jose,CA,95132,1099000.0,4,2.0,1399,785.561,small,2.0,higher
+340,14529 Union Ave,San Jose,CA,95124,1398000.0,3,1.0,1292,1082.043,small,3.0,higher
+341,3901 Lick Mill Blvd #169,Santa Clara,CA,95054,948000.0,2,2.0,1280,740.625,small,1.0,lower
+342,2076 Lanai Ave,San Jose,CA,95122,888000.0,3,2.0,1020,870.588,small,1.5,lower
+343,7053 Rainbow Dr #1,San Jose,CA,95129,698888.0,1,1.0,700,998.411,small,1.0,lower
+344,5949 Drytown Pl,San Jose,CA,95120,1739000.0,3,2.5,2535,685.996,large,1.2,higher
+345,163 N 19th St,San Jose,CA,95112,1050000.0,3,2.0,1246,842.697,small,1.5,equal
+346,5398 Cribari,San Jose,CA,95135,539000.0,2,2.0,1223,440.72,small,1.0,lower
+347,1186 Quail Creek Cir,San Jose,CA,95120,1995000.0,3,2.0,1827,1091.954,medium,1.5,higher
+348,4040 La Mesa Ln,San Jose,CA,95124,1295000.0,3,2.0,1240,1044.355,small,1.5,higher
+349,305 Blossom Valley Dr,Los Gatos,CA,95032,2328888.0,4,3.0,2497,932.674,medium,1.333,higher
+350,1414 Norvella St,San Jose,CA,95122,808888.0,3,2.0,1141,708.929,small,1.5,lower
+351,504 Summerland Dr #504,San Jose,CA,95134,199000.0,3,2.0,1320,150.758,small,1.5,lower
+352,3282 Palantino Way,San Jose,CA,95135,1899999.0,4,3.0,2117,897.496,medium,1.333,higher
+353,835 Upton Way,San Jose,CA,95136,1550000.0,4,2.5,2000,775.0,medium,1.6,higher
+354,938 S Genevieve Ln,San Jose,CA,95128,1850000.0,4,2.5,2307,801.907,medium,1.6,higher
+356,2005 Hayworth Dr,San Jose,CA,95148,1248888.0,4,2.0,1586,787.445,medium,2.0,higher
+357,15107 Joanne Ave,San Jose,CA,95127,1600000.0,3,2.5,2114,756.859,medium,1.2,higher
+358,464 Calero Ave,San Jose,CA,95123,1150000.0,3,2.0,1409,816.182,small,1.5,higher
+359,2151 Oakland Rd #246,San Jose,CA,95131,319900.0,4,2.0,1440,222.153,small,2.0,lower
+360,905 Malone Rd,San Jose,CA,95125,1685000.0,3,3.0,1441,1169.327,small,1.0,higher
+361,1367 Shelby Creek Ln,San Jose,CA,95120,1299000.0,3,2.0,1155,1124.675,small,1.5,higher
+362,352 Craftsman Ct,San Jose,CA,95116,999950.0,4,2.5,1739,575.014,medium,1.6,lower
+363,3770 Polton Place Way,San Jose,CA,95121,1099000.0,3,2.0,1355,811.07,small,1.5,higher
+364,2196 Vizcaya Cl,Campbell,CA,95008,1799999.0,3,2.5,2656,677.71,large,1.2,higher
+365,144 S 3rd St #106,San Jose,CA,95112,795000.0,2,2.5,1488,534.274,small,0.8,lower
+366,5380 King Estates Ct,San Jose,CA,95135,1999888.0,4,3.0,2187,914.444,medium,1.333,higher
+367,3657 Debra Way,San Jose,CA,95117,1698000.0,4,2.0,1380,1230.435,small,2.0,higher
+368,712 Spindrift Dr #712,San Jose,CA,95134,354900.0,3,3.0,1600,221.812,medium,1.0,lower
+369,4806 Jarvis Ave,San Jose,CA,95118,1495000.0,3,2.0,1421,1052.076,small,1.5,higher
+370,1050 Chamomile Ww,San Jose,CA,95133,1149500.0,3,3.5,1587,724.323,medium,0.857,higher
+371,559 E Julian St,San Jose,CA,95112,1249000.0,5,4.0,2120,589.151,medium,1.25,higher
+372,1475 De Rose Way Unit 256A,San Jose,CA,95126,749888.0,2,2.5,1224,612.654,small,0.8,lower
+373,17 Quail Hollow Dr #17,San Jose,CA,95128,368000.0,2,2.0,1344,273.81,small,1.0,lower
+374,2590 Sierra Grande Way,San Jose,CA,95116,1199000.0,4,2.5,1531,783.148,medium,1.6,higher
+375,350 E Mission St #203,San Jose,CA,95112,929888.0,1,1.5,1483,627.032,small,0.667,lower
+376,253 Vista Roma Way,San Jose,CA,95136,1098000.0,3,2.5,1674,655.914,medium,1.2,higher
+378,10816 Ridgeview Ct,San Jose,CA,95127,1439999.0,4,3.0,2000,720.0,medium,1.333,higher
+379,2276 Fairhill Ln,San Jose,CA,95125,1999000.0,4,2.0,2135,936.3,medium,2.0,higher
+380,2927 Hostetter Rd,San Jose,CA,95132,1148888.0,4,2.0,1480,776.276,small,2.0,higher
+381,30 E Julian St #317,San Jose,CA,95112,1198000.0,3,3.0,1949,614.674,medium,1.0,higher
+382,594 Cedarville Ln,San Jose,CA,95133,1040000.0,3,3.0,1522,683.311,medium,1.0,lower
+384,4860 Lakebird Pl,San Jose,CA,95124,888000.0,2,2.0,1212,732.673,small,1.0,lower
+385,171 Shelley Ave,Campbell,CA,95008,1275000.0,3,2.5,1501,849.434,medium,1.2,higher
+386,3302 Bien Way,San Jose,CA,95148,1248888.0,4,2.0,1398,893.339,small,2.0,higher
+387,2510 Lost Oaks Dr,San Jose,CA,95124,1898000.0,4,2.0,1412,1344.193,small,2.0,higher
+388,889 Corlista Dr,San Jose,CA,95128,1129000.0,3,1.5,1044,1081.418,small,2.0,higher
+389,1369 Arnold Ave,San Jose,CA,95110,1050000.0,3,2.0,1206,870.647,small,1.5,equal
+390,2791 Millbrae Way,San Jose,CA,95121,1148000.0,3,2.0,1157,992.221,small,1.5,higher
+391,505 Autumn Meadow Dr,San Jose,CA,95123,1299999.0,4,3.5,2205,589.569,medium,1.143,higher
+392,882 Lake Mcclure Dr,San Jose,CA,95123,775000.0,2,2.0,982,789.206,small,1.0,lower
+393,3286 Payne Ave,San Jose,CA,95117,1399999.0,3,2.5,1817,770.5,medium,1.2,higher
+394,5270 Estrade Dr,San Jose,CA,95118,1449000.0,4,2.0,1473,983.707,small,2.0,higher
+395,7049 Via Del Rio,San Jose,CA,95139,1295000.0,4,2.0,1858,696.986,medium,2.0,higher
+396,7571 Helmsdale Ct,San Jose,CA,95135,899000.0,2,2.0,1572,571.883,medium,1.0,lower
+397,144 S Third St #325,San Jose,CA,95112,799999.0,2,2.0,1421,562.983,small,1.0,lower
+398,1289 Salvatore Dr,San Jose,CA,95120,1900000.0,3,2.0,1905,997.375,medium,1.5,higher
+399,4711 Denevi Dr,San Jose,CA,95130,1750000.0,4,2.0,1302,1344.086,small,2.0,higher
+400,1817 Minuet,San Jose,CA,95131,2229000.0,5,3.0,2504,890.176,large,1.667,higher
+401,5933 Sunstone Dr #207,San Jose,CA,95123,599000.0,1,1.0,800,748.75,small,1.0,lower
+402,18590 Almaden Rd,San Jose,CA,95120,2290000.0,4,3.0,3471,659.752,large,1.333,higher
+403,2106 Vizcaya Way,Campbell,CA,95008,1599999.0,3,2.5,2396,667.779,medium,1.2,higher
+404,5868 Virtual Ln,San Jose,CA,95119,1589000.0,4,3.5,2454,647.514,medium,1.143,higher
+405,935 Lake Tahoe Ct,San Jose,CA,95123,699800.0,2,1.0,852,821.362,small,2.0,lower
+407,2151 Oakland Rd #172,San Jose,CA,95131,328888.0,3,2.0,1344,244.708,small,1.5,lower
+408,6975 Chantel Ct,San Jose,CA,95129,885000.0,2,2.5,1051,842.055,small,0.8,lower
+409,3561 Glasgow Ct,San Jose,CA,95127,899000.0,3,2.0,1128,796.986,small,1.5,lower
+410,3367 Burgundy Dr,San Jose,CA,95132,1388000.0,4,2.0,1502,924.101,medium,2.0,higher
+411,1083 Tekman Dr,San Jose,CA,95122,430000.0,1,1.0,648,663.58,small,1.0,lower
+412,339 Henderson Dr,San Jose,CA,95123,1250000.0,3,2.0,1410,886.525,small,1.5,higher
+413,2248 Montezuma Dr,Campbell,CA,95008,1998000.0,4,3.0,2090,955.981,medium,1.333,higher
+414,501 Crosslees Dr,San Jose,CA,95111,1399900.0,4,2.5,2171,644.818,medium,1.6,higher
+415,88 E San Fernando St #1901,San Jose,CA,95113,980000.0,2,2.0,1165,841.202,small,1.0,lower
+416,1215 Permata Ct,San Jose,CA,95116,495000.0,1,1.0,696,711.207,small,1.0,lower
+417,2124 Alexian Dr,San Jose,CA,95116,649000.0,3,1.5,1165,557.082,small,2.0,lower
+418,2957 Via Del Sol,San Jose,CA,95132,1198888.0,4,2.0,1579,759.27,medium,2.0,higher
+419,1162 Keystone Ct,San Jose,CA,95132-2621,1500000.0,4,3.0,2360,635.593,medium,1.333,higher
+420,1778 Barcelona Ave,San Jose,CA,95124,1595000.0,3,2.0,1456,1095.467,small,1.5,higher
+421,414 Patton Ave,San Jose,CA,95128,945000.0,3,1.0,1008,937.5,small,3.0,lower
+422,4495 Hampshire Pl,San Jose,CA,95136,1675000.0,4,2.5,1860,900.538,medium,1.6,higher
+423,1029 Foxchase Dr,San Jose,CA,95123,689900.0,2,1.0,964,715.664,small,2.0,lower
+424,351 Millpond Dr #351,San Jose,CA,95125,285000.0,3,2.0,1836,155.229,medium,1.5,lower
+425,1193 Prosper Ave,San Jose,CA,95118,1480000.0,3,2.0,1457,1015.786,small,1.5,higher
+426,2386 Blanding Ave,San Jose,CA,95121,1168000.0,3,2.0,1217,959.737,small,1.5,higher
+427,1993 Schrader Dr,San Jose,CA,95124,1650000.0,3,2.0,1455,1134.021,small,1.5,higher
+428,581 Lundy Pl,Milpitas,CA,95035,1384589.0,3,3.0,1769,782.696,medium,1.0,higher
+429,1847 Sterling Lndg,San Jose,CA,95131,1199000.0,3,2.5,1651,726.227,medium,1.2,higher
+430,423 Ridgefarm Dr,San Jose,CA,95123,1149999.0,3,2.0,1232,933.441,small,1.5,higher
+431,1644 Peregrino Way,San Jose,CA,95125,2690000.0,3,2.5,2300,1169.565,medium,1.2,higher
+432,1641 Thorncrest Dr,San Jose,CA,95131,698000.0,2,2.0,922,757.05,small,1.0,lower
+433,910 Ferngrove Dr,Cupertino,CA,95014,1795000.0,3,2.0,1220,1471.311,small,1.5,higher
+434,122 Bernal Rd,San Jose,CA,95119,1250000.0,3,2.0,1184,1055.743,small,1.5,higher
+435,4436 Yerba Buena Ave,San Jose,CA,95121,1699000.0,4,2.0,1734,979.815,medium,2.0,higher
+436,460 N 10th St,San Jose,CA,95112,825000.0,2,2.0,940,877.66,small,1.0,lower
+437,310 Ballymore Cir,San Jose,CA,95136,1049000.0,4,3.0,1568,669.005,medium,1.333,lower
+438,4118 Rosenbaum Ave,San Jose,CA,95136,1499888.0,7,3.0,2236,670.791,medium,2.333,higher
+439,360 S Baywood Ave,San Jose,CA,95128,1590000.0,3,2.0,1187,1339.511,small,1.5,higher
+440,2512 Heron Ct,San Jose,CA,95133,888000.0,2,2.5,1270,699.213,small,0.8,lower
+441,262 Bieber Dr,San Jose,CA,95123,1275000.0,4,2.0,1664,766.226,medium,2.0,higher
+442,718 Coyote Rd,San Jose,CA,95111,1100000.0,4,3.0,1598,688.36,medium,1.333,higher
+443,2174 Northampton Dr,San Jose,CA,95124,1499888.0,3,2.5,1612,930.452,medium,1.2,higher
+445,4229 Watkins Way,San Jose,CA,95135,2350000.0,5,3.0,2316,1014.68,medium,1.667,higher
+446,1790 Sageland Dr,San Jose,CA,95131,1369995.0,3,2.0,1758,779.292,medium,1.5,higher
+447,5528 Southcrest Way,San Jose,CA,95123,1310000.0,3,2.0,1662,788.207,medium,1.5,higher
+448,369 Curie Dr,San Jose,CA,95119-1636,1398888.0,3,2.0,1694,825.79,medium,1.5,higher
+449,2967 Densmore Dr,San Jose,CA,95148,1698000.0,4,3.0,2350,722.553,medium,1.333,higher
+450,7100 Rainbow Dr #33,San Jose,CA,95129,875000.0,2,1.5,1050,833.333,small,1.333,lower
+451,7100 Rainbow Dr #23,San Jose,CA,95129,899000.0,2,1.5,1050,856.19,small,1.333,lower
+452,611 Avenue One,San Jose,CA,95123,1295000.0,4,3.5,2205,587.302,medium,1.143,higher
+453,3852 Ross Ave,San Jose,CA,95124,1249000.0,3,2.0,1240,1007.258,small,1.5,higher
+454,1539 Arata Ct,San Jose,CA,95125,2849888.0,4,4.5,3000,949.963,large,0.889,higher
+456,1310 Saddle Rack St #346,San Jose,CA,95126,799000.0,2,2.0,1258,635.135,small,1.0,lower
+457,536 S 22Nd St,San Jose,CA,95116,1050000.0,4,3.5,1917,547.731,medium,1.143,equal
+458,4757 Torrey Pines Cir,San Jose,CA,95124,1699000.0,3,3.0,2079,817.22,medium,1.0,higher
+459,4233 Jan Way,San Jose,CA,95124,1250000.0,3,2.0,1271,983.478,small,1.5,higher
+460,877 Clarkston Dr,San Jose,CA,95136,1389000.0,4,3.0,2088,665.23,medium,1.333,higher
+461,762 El Sombroso Dr,San Jose,CA,95123,1575000.0,4,2.0,1516,1038.918,medium,2.0,higher
+462,1090 Luther,San Jose,CA,95126,1264444.0,2,2.0,1321,957.187,small,1.0,higher
+463,1327 W Hedding St,San Jose,CA,95126,1195500.0,2,1.0,1104,1082.88,small,2.0,higher
+464,1158 Tofts Dr,San Jose,CA,95131,1388000.0,3,2.0,1393,996.411,small,1.5,higher
+465,3681 Charter Hall Ct,San Jose,CA,95136,1799000.0,4,2.5,2096,858.302,medium,1.6,higher
+466,135 El Bosque #135,San Jose,CA,95134,264900.0,3,2.0,1344,197.098,small,1.5,lower
+467,373 Bautista Pl,San Jose,CA,95126,1150000.0,3,3.0,1621,709.439,medium,1.0,higher
+468,11390 Enchanto Vista Dr,San Jose,CA,95127,1999900.0,6,4.5,3435,582.213,large,1.333,higher
+469,255 Llano De Los Robles Ave #4,San Jose,CA,95136,1138888.0,3,2.0,1256,906.758,small,1.5,higher
+470,1291-1293 N FIRST St,San Jose,CA,95112,1271400.0,4,2.0,1665,763.604,medium,2.0,higher
+471,3554 Senter Rd,San Jose,CA,95111,800000.0,4,3.0,1536,520.833,medium,1.333,lower
+472,2068 Warmwood Ln,San Jose,CA,95132,1249000.0,3,2.0,1399,892.781,small,1.5,higher
+473,2903 Manda Dr,San Jose,CA,95124,1888888.0,4,2.0,1320,1430.976,small,2.0,higher
+474,1744 Silverwood Dr,San Jose,CA,95124,1724900.0,3,2.5,1700,1014.647,medium,1.2,higher
+475,1863 Anne Way,San Jose,CA,95124,1788000.0,4,3.0,2241,797.858,medium,1.333,higher
+476,165 Blossom Hill Rd #118,San Jose,CA,95123,310000.0,3,2.0,1300,238.462,small,1.5,lower
+478,1545 Michigan Ave,Alviso,CA,95002,699999.0,3,2.0,1254,558.213,small,1.5,lower
+479,853 Toyon Ct,San Jose,CA,95127,1399888.0,3,2.0,1766,792.689,medium,1.5,higher
+480,420 Fuller Ave,San Jose,CA,95125,1170000.0,4,2.0,1800,650.0,medium,2.0,higher
+481,1128 Pheasant Hill Way,San Jose,CA,95120,1950000.0,3,2.5,2129,915.923,medium,1.2,higher
+482,521 Rialto Pl,San Jose,CA,95128,1525000.0,4,4.0,1784,854.821,medium,1.0,higher
+483,411 Lewis Rd #292,San Jose,CA,95111,185000.0,2,1.5,800,231.25,small,1.333,lower
+484,5232 Camden Ave,San Jose,CA,95124,1299000.0,4,2.0,1391,933.861,small,2.0,higher
+485,5872 Crump Ct,San Jose,CA,95120,1950000.0,3,2.5,1957,996.423,medium,1.2,higher
+486,144E Quail Hollow Dr Unit 144E,San Jose,CA,95128,259999.0,2,2.0,1056,246.211,small,1.0,lower
+487,336 Los Encinos Dr #336,San Jose,CA,95134,199900.0,2,2.0,1488,134.341,small,1.0,lower
+488,620 Tully Rd,San Jose,CA,95111,2222222.0,3,1.0,1563,1421.767,medium,3.0,higher
+489,1350 Oakland Rd #70,San Jose,CA,95112,420000.0,3,2.0,1180,355.932,small,1.5,lower
+491,1375 Lick Ave #530,San Jose,CA,95110,560000.0,1,1.0,733,763.984,small,1.0,lower
+492,1850 Evans Ln #72,San Jose,CA,95125,179999.0,1,1.0,620,290.321,small,1.0,lower
+493,5706 Poglia Ct,San Jose,CA,95138,2595000.0,4,3.0,2833,915.99,large,1.333,higher
+494,4851 Trent Dr,San Jose,CA,95124,1985000.0,4,3.0,2063,962.191,medium,1.333,higher
+495,1178 Rhinecastle Way,San Jose,CA,95120,1999000.0,4,2.5,2213,903.299,medium,1.6,higher
+496,1133 Idlewood Dr,San Jose,CA,95121,1080000.0,3,2.0,1232,876.623,small,1.5,higher
+497,3036 Empoli #4 St,San Jose,CA,95136,1159900.0,3,2.0,1241,934.649,small,1.5,higher
+498,6197 Gerdts Dr,San Jose,CA,95135,688888.0,2,2.0,1197,575.512,small,1.0,lower
+499,1007 Byerley Ave,San Jose,CA,95125,2250000.0,4,3.0,2605,863.724,large,1.333,higher
+500,3196 Knightswood Way,San Jose,CA,95148,1850000.0,4,2.5,1931,958.053,medium,1.6,higher
+501,855 Cherry Creek Cir,San Jose,CA,95126,775000.0,2,2.0,1058,732.514,small,1.0,lower
+502,1502 Rue Avati,San Jose,CA,95131,1488000.0,4,2.0,1480,1005.405,small,2.0,higher
+503,2685 Evora Dr,San Jose,CA,95124,1851933.0,3,2.0,2063,897.689,medium,1.5,higher
+504,101 S 12th St,San Jose,CA,95112,1399000.0,4,2.5,2140,653.738,medium,1.6,higher
+506,4255 Senter Rd,San Jose,CA,95111,935000.0,3,2.0,1123,832.591,small,1.5,lower
+507,54 Floyd St,San Jose,CA,95110,1669000.0,4,2.0,1475,1131.525,small,2.0,higher
+508,1075 Palm St,San Jose,CA,95110,925777.0,4,2.0,1365,678.225,small,2.0,lower
+510,531 N 12th St,San Jose,CA,95112,1188000.0,3,1.0,925,1284.324,small,3.0,higher
+511,476 S Willard Ave,San Jose,CA,95126,599999.0,2,2.0,968,619.834,small,1.0,lower
+512,411 Lewis Rd #357,San Jose,CA,95111,185000.0,2,1.0,800,231.25,small,2.0,lower
+513,3328 Corning Dr,San Jose,CA,95118,1470000.0,3,2.5,1805,814.404,medium,1.2,higher
+514,3208 Mallard Ct #302,San Jose,CA,95117,1250000.0,2,2.0,1345,929.368,small,1.0,higher
+515,1155 Weyburn Ln #10,San Jose,CA,95129,825000.0,2,1.0,852,968.31,small,2.0,lower
+516,1450 Emory St,San Jose,CA,95126,1988000.0,5,2.5,3009,660.685,large,2.0,higher
+517,495 Dorothy Ave,San Jose,CA,95125,1799888.0,4,3.0,1825,986.24,medium,1.333,higher
+518,1233 San Juan Ave,San Jose,CA,95110,1233000.0,3,2.0,1231,1001.625,small,1.5,higher
+520,615 Lisa Way,Campbell,CA,95008,1475000.0,3,2.0,1528,965.314,medium,1.5,higher
+521,1216 Champagne Ln,San Jose,CA,95132,1479000.0,3,2.0,1324,1117.069,small,1.5,higher
+522,553 Coakley Dr,San Jose,CA,95117,1450000.0,4,2.5,1648,879.854,medium,1.6,higher
+523,3300 Narvaez #199,San Jose,CA,95136,242500.0,2,2.0,1100,220.455,small,1.0,lower
+524,97 E Saint James St #46,San Jose,CA,95112,529000.0,1,1.0,885,597.74,small,1.0,lower
+525,1080 Loupe Ave,San Jose,CA,95121,1099000.0,3,2.0,1584,693.813,medium,1.5,higher
+527,4793 Rue Orleans Ct,San Jose,CA,95136,1380000.0,4,2.5,1732,796.767,medium,1.6,higher
+528,6058 Paseo Pueblo Dr,San Jose,CA,95120,1999888.0,4,2.5,2204,907.39,medium,1.6,higher
+529,1381 Crailford Ct,San Jose,CA,95121,1350000.0,3,2.0,1402,962.91,small,1.5,higher
+530,5589 Judith St #1,San Jose,CA,95123,555000.0,2,1.0,810,685.185,small,2.0,lower
+531,566 Almaden Walk Loop,San Jose,CA,95125,1098000.0,3,3.0,1410,778.723,small,1.0,higher
+533,52 S 10th St,San Jose,CA,95112,1399900.0,5,2.5,1887,741.865,medium,2.0,higher
+534,1508 W Hedding St,San Jose,CA,95126,1550000.0,4,3.0,1900,815.789,medium,1.333,higher
+535,1310 Saddle Rack St #302,San Jose,CA,95126,850000.0,2,2.0,1258,675.676,small,1.0,lower
+536,3 Adelong Way,San Jose,CA,95139,990000.0,2,1.0,792,1250.0,small,2.0,lower
+537,75 Azucar Ave,San Jose,CA,95111,998888.0,3,2.0,1206,828.265,small,1.5,lower
+538,2044 Worthington Cir,Santa Clara,CA,95050,1299606.0,2,2.0,1413,919.749,small,1.0,higher
+539,1566 Murphy Ave,San Jose,CA,95131,2490000.0,4,4.0,3141,792.741,large,1.0,higher
+540,2216 Astrahan Ln,San Jose,CA,95148,1198888.0,3,2.0,1472,814.462,small,1.5,higher
+541,1136 Yarwood Ct,San Jose,CA,95128,468000.0,1,1.0,658,711.246,small,1.0,lower
+542,2077 Cully Pl,San Jose,CA,95124,2985000.0,4,4.5,2810,1062.278,large,0.889,higher
+543,1588 Ringwood Ave,San Jose,CA,95131,1950000.0,3,2.5,2277,856.39,medium,1.2,higher
+544,2814 Paseo Ln,San Jose,CA,95124,1525000.0,4,4.5,2438,625.513,medium,0.889,higher
+545,6992 Rockton Ave,San Jose,CA,95119,1888888.0,5,3.0,2347,804.81,medium,1.667,higher
+546,482 Marble Arch Ave,San Jose,CA,95136,1099000.0,3,2.5,1983,554.211,medium,1.2,higher
+547,2260 Silver Terrace Way,San Jose,CA,95138,1198000.0,2,2.0,1793,668.154,medium,1.0,higher
+549,1500 Virginia Pl #108,San Jose,CA,95116,199999.0,2,1.0,693,288.599,small,2.0,lower
+550,348 Daisy Dr,San Jose,CA,95123,1725000.0,4,3.0,2048,842.285,medium,1.333,higher
+551,5401 Silver Vista Way,San Jose,CA,95138,1400000.0,2,2.0,2154,649.954,medium,1.0,higher
+552,111 Llano De Los Robles Ave #2,San Jose,CA,95136,1299888.0,2,2.0,1900,684.152,medium,1.0,higher
+553,1797 Rosswood Dr,San Jose,CA,95124,2198000.0,4,2.5,2000,1099.0,medium,1.6,higher
+554,322 Flinder Pl,San Jose,CA,95123,1039000.0,3,3.0,1822,570.252,medium,1.0,lower
+555,4300 Kirk Rd,San Jose,CA,95124,2198000.0,4,3.0,1931,1138.27,medium,1.333,higher
+556,1578 Taipei Dr,San Jose,CA,95131,1148000.0,4,3.0,1846,621.885,medium,1.333,higher
+557,2151 Old Oakland Rd #20,San Jose,CA,95131,330000.0,3,2.0,1440,229.167,small,1.5,lower
+558,2773 Union Ave,San Jose,CA,95124,1475000.0,4,2.0,1757,839.499,medium,2.0,higher
+559,5403 Cribari Ct,San Jose,CA,95135,510000.0,2,2.0,1223,417.007,small,1.0,lower
+560,2671 Glen Fenton Way,San Jose,CA,95148,1449999.0,4,2.5,2113,686.228,medium,1.6,higher
+561,828 Nevada Ave,San Jose,CA,95125,2199950.0,3,2.0,2163,1017.083,medium,1.5,higher
+562,2968 Tuers Rd,San Jose,CA,95121,1349990.0,4,2.5,2000,674.995,medium,1.6,higher
+563,1445 Fruitdale Ave #107,San Jose,CA,95128,775000.0,2,2.0,1170,662.393,small,1.0,lower
+564,5831 Pala Mesa Dr,San Jose,CA,95123,1550000.0,4,2.5,2192,707.117,medium,1.6,higher
+565,5915 Blue Topaz Ct,San Jose,CA,95123,1280000.0,4,3.5,2093,611.562,medium,1.143,higher
+566,8861 Wine Valley Cir,San Jose,CA,95135,1350000.0,3,2.0,2032,664.37,medium,1.5,higher
+567,653 Yolo Ct,San Jose,CA,95136,488000.0,1,1.0,648,753.086,small,1.0,lower
+568,293 Chynoweth Ave,San Jose,CA,95136,808888.0,3,1.5,1308,618.416,small,2.0,lower
+569,461 Northlake Dr #21,San Jose,CA,95117,749000.0,2,2.0,1191,628.883,small,1.0,lower
+570,536 Manzana Pl,San Jose,CA,95112,849000.0,1,2.0,1420,597.887,small,0.5,lower
+571,144 S 3rd St #109,San Jose,CA,95112,819000.0,2,2.5,1488,550.403,small,0.8,lower
+572,2321 Radio Ave,San Jose,CA,95125,1299888.0,2,1.0,1159,1121.56,small,2.0,higher
+573,5828 Recife Way,San Jose,CA,95120,1899888.0,3,2.0,1858,1022.545,medium,1.5,higher
+575,158 Pierce Ave,San Jose,CA,95110,460000.0,2,1.0,1152,399.306,small,2.0,lower
+576,17356 Via San Ardo,San Lorenzo,CA,94580,900000.0,3,2.0,1495,602.007,small,1.5,lower
+577,784 Blaine Way,Hayward,CA,94544,808000.0,3,2.0,1358,594.993,small,1.5,lower
+578,24541 Blossom Acre Way,Hayward,CA,94544,899000.0,4,3.0,1812,496.137,medium,1.333,lower
+579,21103 Gary Dr Unit 114A,Hayward,CA,94546,599900.0,2,2.0,1100,545.364,small,1.0,lower
+580,769 Plantation Ln #15,Hayward,CA,94544,849000.0,3,2.5,1391,610.352,small,1.2,lower
+581,32254 Crest Ln,Union City,CA,94587,1280000.0,4,2.0,1463,874.915,small,2.0,higher
+582,977 Northfield Dr,Hayward,CA,94544,359944.0,3,2.0,1477,243.699,small,1.5,lower
+583,1200 W Winton #174,Hayward,CA,94545,139888.0,2,1.0,656,213.244,small,2.0,lower
+584,17318 Esteban St,Hayward,CA,94541,579000.0,3,2.5,1724,335.847,medium,1.2,lower
+585,2638 Sleepy Hollow Ave,Hayward,CA,94545-3340,629000.0,3,2.0,1153,545.533,small,1.5,lower
+586,649 Artisan Pl,Hayward,CA,94541,675000.0,3,3.0,1595,423.197,medium,1.0,lower
+587,21095 Gary Dr #113,Hayward,CA,94546,590000.0,2,2.0,1118,527.728,small,1.0,lower
+588,465 Solano Ave,Hayward,CA,94541,1169000.0,4,2.0,2120,551.415,medium,2.0,higher
+589,177 El Dorado Ave,Hayward,CA,94541,995000.0,3,3.0,1377,722.585,small,1.0,lower
+590,23755 Clayton St,Hayward,CA,94541,898000.0,4,2.0,1502,597.87,medium,2.0,lower
+591,672 Atherton Pl #507,Hayward,CA,94541,699900.0,3,3.0,1224,571.814,small,1.0,lower
+592,21070 Mission,Hayward,CA,94541,699000.0,2,1.0,1104,633.152,small,2.0,lower
+593,29865 Mission Blvd,Hayward,CA,94544,964016.0,3,3.0,1940,496.915,medium,1.0,lower
+594,26953 Hayward Blvd #308,Hayward,CA,94542,490000.0,2,2.0,1208,405.629,small,1.0,lower
+595,22999 Palazzo Del Kayla,Hayward,CA,94541,1179000.0,4,3.0,2050,575.122,medium,1.333,higher
+596,430 Willow Ave,Hayward,CA,94541,450000.0,2,1.0,1008,446.429,small,2.0,lower
+597,2645 Admiral Cir,Hayward,CA,94545,1395000.0,4,2.5,2046,681.818,medium,1.6,higher
+598,29478 Dixon St,Hayward,CA,94544,789000.0,2,2.0,1501,525.65,medium,1.0,lower
+599,2733 Seadrift Ln,Hayward,CA,94545-1365,1495000.0,5,3.5,2457,608.466,medium,1.429,higher
+600,165 Revere Ave,Hayward,CA,94544,560000.0,3,1.0,1221,458.64,small,3.0,lower
+601,2059 Everglade St,Hayward,CA,94545,818888.0,3,2.0,1000,818.888,small,1.5,lower
+602,27947 Edgecliff Way,Hayward,CA,94542,1299000.0,4,2.5,1946,667.523,medium,1.6,higher
+603,2020 Hill Ave,Hayward,CA,94541,1350000.0,4,3.0,2444,552.373,medium,1.333,higher
+604,29711 Hansen St,Hayward,CA,94544,998000.0,4,3.5,2018,494.549,medium,1.143,lower
+605,913 Folsom Ave,Hayward,CA,94544,824999.0,3,1.5,1176,701.53,small,2.0,lower
+606,1221 Bellina St,Hayward,CA,94541,1050000.0,4,3.5,2368,443.412,medium,1.143,equal
+607,151 Mediterranean Ave,Hayward,CA,94544,820000.0,2,2.0,990,828.283,small,1.0,lower
+608,431 Industrial Pkwy,Hayward,CA,94544,911208.0,3,2.5,1948,467.766,medium,1.2,lower
+610,222 Span Ct,Hayward,CA,94544,889000.0,2,2.5,1718,517.462,medium,0.8,lower
+611,26634 Colette St,Hayward,CA,94544,750000.0,3,1.0,1167,642.674,small,3.0,lower
+612,3012 Randall Way,Hayward,CA,94541,999000.0,3,2.0,1480,675.0,small,1.5,lower
+613,1707 Grove Way,Castro Valley,CA,94546,1400000.0,4,3.0,2376,589.226,medium,1.333,higher
+614,17297 Los Banos St,Hayward,CA,94541,749000.0,3,1.0,1239,604.52,small,3.0,lower
+657,2744 Hosmer St,San Mateo,CA,94403,1300000.0,3,2.0,1100,1181.818,small,1.5,higher
+658,1 Baldwin Ave #603,San Mateo,CA,94401,725000.0,2,2.0,1400,517.857,small,1.0,lower
+659,610 E 16th Ave,San Mateo,CA,94402,1598000.0,3,2.0,1380,1157.971,small,1.5,higher
+660,419 Buena Vista Ave,San Mateo,CA,94403,2550000.0,4,3.0,2803,909.74,large,1.333,higher
+661,86 Mission Dr,San Mateo,CA,94402,2200000.0,3,2.0,1575,1396.825,medium,1.5,higher
+662,783 26th Ave,San Mateo,CA,94403,2699000.0,4,4.0,2263,1192.665,medium,1.0,higher
+663,218 Commons Ln,Foster City,CA,94404,1200000.0,2,2.0,1500,800.0,medium,1.0,higher
+664,930 Peninsula Ave #307,San Mateo,CA,94401,599990.0,1,1.0,772,777.189,small,1.0,lower
+665,3615 Kingridge Dr,San Mateo,CA,94403,2198000.0,4,2.5,2520,872.222,large,1.6,higher
+666,2229 Armada Way,San Mateo,CA,94404,1098000.0,2,2.5,1223,897.792,small,0.8,higher
+667,874 Neptune Ct,San Mateo,CA,94404,1525000.0,3,2.5,1590,959.119,medium,1.2,higher
+668,1612 Marina Ct Unit E,San Mateo,CA,94403,759000.0,3,1.5,1054,720.114,small,2.0,lower
+669,3037 Los Prados St #229,San Mateo,CA,94403,598000.0,2,2.0,956,625.523,small,1.0,lower
+670,740 Promontory Point Ln #3302,Foster City,CA,94404,1499000.0,3,2.5,2224,674.011,medium,1.2,higher
+671,847 N Humboldt St #410,San Mateo,CA,94401,898000.0,2,2.0,1204,745.847,small,1.0,lower
+672,210 Waters Park Cir #201,San Mateo,CA,94403,1699990.0,3,3.0,1798,945.489,medium,1.0,higher
+673,3028 Fernwood St,San Mateo,CA,94403,1550000.0,3,2.0,1360,1139.706,small,1.5,higher
+674,1013 Haddon Dr,San Mateo,CA,94402,1549800.0,3,1.0,1180,1313.39,small,3.0,higher
+676,840 Sea Spray Ln #207,Foster City,CA,94404,869000.0,2,2.0,1233,704.785,small,1.0,lower
+677,320 Peninsula Ave #113,San Mateo,CA,94401,698000.0,2,2.0,930,750.538,small,1.0,lower
+678,312 24th Ave,San Mateo,CA,94403,1498000.0,3,2.0,1490,1005.369,small,1.5,higher
+679,425 Anchor Rd #212,San Mateo,CA,94404,760000.0,2,1.0,950,800.0,small,2.0,lower
+681,1115 Shoreline Dr,San Mateo,CA,94404,1498000.0,3,2.0,1625,921.846,medium,1.5,higher
+682,101 Arroyo Ct #2,San Mateo,CA,94402,1388000.0,2,2.0,1475,941.017,small,1.0,higher
+683,10 Crystal Springs Rd #1504,San Mateo,CA,94402,1798000.0,2,2.0,1732,1038.106,medium,1.0,higher
+684,325 Landfair Ave,San Mateo,CA,94403,1249000.0,2,1.0,900,1387.778,small,2.0,higher
+685,6 Fairoaks Ct,San Mateo,CA,94403,2700000.0,3,3.5,2420,1115.702,medium,0.857,higher
+689,946 Peninsula Ave,San Mateo,CA,94401,825000.0,2,1.5,1152,716.146,small,1.333,lower
+690,10 Crystal Springs Rd #2114,San Mateo,CA,94402,1050000.0,2,2.0,1187,884.583,small,1.0,equal
+691,1919 Alameda De Las Pulgas #38,San Mateo,CA,94403,888000.0,2,2.0,1024,867.188,small,1.0,lower
+692,1537 De Anza Blvd,San Mateo,CA,94403,1798000.0,2,2.5,2100,856.19,medium,0.8,higher
+693,513 Santa Clara Way,San Mateo,CA,94403,1888888.0,4,2.0,1500,1259.259,medium,2.0,higher
+732,3090 Kansas #3,Oakland,CA,94602,599000.0,3,2.0,1158,517.271,small,1.5,lower
+734,6256 Melville Dr,Oakland,CA,94611,2595000.0,4,2.5,3355,773.472,large,1.6,higher
+735,981 39Th St,Oakland,CA,94608,1495000.0,7,4.5,2997,498.832,large,1.556,higher
+736,5600 Oak Grove Ave,Oakland,CA,94618,1395000.0,4,2.0,1560,894.231,medium,2.0,higher
+737,441 51st St,Oakland,CA,94609,899000.0,2,1.0,1073,837.838,small,2.0,lower
+738,4375 Fleming Ave,Oakland,CA,94619,749000.0,3,2.0,1331,562.735,small,1.5,lower
+739,9512 Olive St,Oakland,CA,94603,547000.0,3,1.0,913,599.124,small,3.0,lower
+740,959 86Th Ave,Oakland,CA,94621,525000.0,3,1.0,880,596.591,small,3.0,lower
+742,5552 Estates Dr,Oakland,CA,94618,1298000.0,3,2.5,1757,738.759,medium,1.2,higher
+743,85 Vernon St #104,Oakland,CA,94610,449000.0,1,1.0,648,692.901,small,1.0,lower
+744,344 Warwick Ave,Oakland,CA,94610,1690000.0,3,2.5,2192,770.985,medium,1.2,higher
+745,3790 Manila Ave,Oakland,CA,94609,328900.0,2,1.0,1016,323.72,small,2.0,lower
+746,2249 Ransom Ave,Oakland,CA,94601,649000.0,2,1.0,979,662.921,small,2.0,lower
+747,3228 Magnolia St,Oakland,CA,94608,975000.0,4,3.0,2502,389.688,large,1.333,lower
+748,2000 38Th Ave,Oakland,CA,94601,399000.0,2,1.0,1207,330.572,small,2.0,lower
+749,5055 Mcdonell Ave,Oakland,CA,94619,600000.0,2,1.0,1026,584.795,small,2.0,lower
+750,5024 Leona St,Oakland,CA,94619,600000.0,2,1.0,792,757.576,small,2.0,lower
+751,5020 Leona St,Oakland,CA,94619,600000.0,4,2.5,1797,333.89,medium,1.6,lower
+752,1017 60Th St,Oakland,CA,94608,1149000.0,4,2.0,1991,577.097,medium,2.0,higher
+753,5876 Birch Ct,Oakland,CA,94618,1195000.0,2,1.5,1225,975.51,small,1.333,higher
+754,2643 Market,Oakland,CA,94607,719000.0,3,1.0,1138,631.81,small,3.0,lower
+755,2010 E 25th St,Oakland,CA,94606,609000.0,2,1.0,740,822.973,small,2.0,lower
+756,1555 Lakeside Dr #1,Oakland,CA,94612,1799000.0,3,2.0,2274,791.117,medium,1.5,higher
+757,1450 E 31st stret,Oakland,CA,94602,555000.0,2,1.0,961,577.523,small,2.0,lower
+759,4449 Park Blvd,Oakland,CA,94602,1098000.0,3,1.5,1382,794.501,small,2.0,higher
+760,593 Martin Mariner Ave,Alameda,CA,94501,1042243.0,2,2.5,1366,762.989,small,0.8,lower
+762,3785 Harrison St,Oakland,CA,94611,1698888.0,5,3.5,2973,571.439,large,1.429,higher
+763,1745 96Th Ave,Oakland,CA,94603,549000.0,3,1.0,1200,457.5,small,3.0,lower
+764,5756 Florence Ter,Oakland,CA,94611,1089000.0,3,2.0,1491,730.382,small,1.5,higher
+765,330 Park View Ter #100,Oakland,CA,94610,559000.0,1,1.0,830,673.494,small,1.0,lower
+766,2734 Carisbrook Dr,Oakland,CA,94611,1295000.0,3,2.0,2251,575.3,medium,1.5,higher
+767,801 Franklin St #1235,Oakland,CA,94607,490000.0,2,1.5,1200,408.333,small,1.333,lower
+768,981 41st St #116,Oakland,CA,94608,998900.0,3,2.5,1857,537.911,medium,1.2,lower
+769,534 52nd St,Oakland,CA,94609,759950.0,3,2.5,1244,610.892,small,1.2,lower
+770,635 Canyon Oaks Dr Unit F,Oakland,CA,94605,469000.0,1,1.0,815,575.46,small,1.0,lower
+771,5030 Trask St,Oakland,CA,94601,650000.0,2,1.0,1098,591.985,small,2.0,lower
+772,1912 Crosby Ave,Oakland,CA,94601,745000.0,4,1.0,2391,311.585,medium,4.0,lower
+773,1511 Jefferson St #101,Oakland,CA,94612,475000.0,1,1.0,752,631.649,small,1.0,lower
+774,7553 VALENTINE St,Oakland,CA,94605,799000.0,2,1.5,1156,691.176,small,1.333,lower
+775,3201 Randolph Ave,Oakland,CA,94602,779000.0,4,2.0,1914,407.001,medium,2.0,lower
+776,9014 Skyline Blvd,Oakland,CA,94611,1350000.0,4,3.0,2090,645.933,medium,1.333,higher
+777,3701 Wisconsin St,Oakland,CA,94619,895000.0,2,2.0,1348,663.947,small,1.0,lower
+779,3449 Encina Way,Oakland,CA,94605,795000.0,4,2.0,1897,419.083,medium,2.0,lower
+780,1012 63rd St,Oakland,CA,94608,995000.0,3,1.0,1195,832.636,small,3.0,lower
+781,2012 64th Ave,Oakland,CA,94621,335000.0,2,1.0,770,435.065,small,2.0,lower
+782,1014 Rose Ave,Piedmont,CA,94611,1250000.0,3,1.0,1572,795.165,medium,3.0,higher
+783,295 Lenox Ave #203,Oakland,CA,94610,499000.0,1,1.0,876,569.635,small,1.0,lower
+784,3038 35Th Ave,Oakland,CA,94619,999998.0,6,3.0,2682,372.855,large,2.0,lower
+785,4406 Whittle Ave,Oakland,CA,94602,1289000.0,3,2.0,1941,664.091,medium,1.5,higher
+787,3879 Fruitvale Ave,Oakland,CA,94602,900000.0,2,1.0,1180,762.712,small,2.0,lower
+788,3535 Laguna Ave,Oakland,CA,94602,499000.0,1,1.0,532,937.97,small,1.0,lower
+789,375 44th St,Oakland,CA,94609,625000.0,1,1.0,720,868.056,small,1.0,lower
+790,4207 Lincoln Ave,Oakland,CA,94602,1049000.0,3,3.0,1447,724.948,small,1.0,lower
+791,1091 67th St,Oakland,CA,94608,753000.0,2,2.0,1193,631.182,small,1.0,lower
+792,1957 86Th Ave,Oakland,CA,94621,549900.0,3,2.0,828,664.13,small,1.5,lower
+794,1451 13Th St #1,Oakland,CA,94607,499000.0,1,1.5,887,562.57,small,0.667,lower
+795,14060 Broadway Ter,Oakland,CA,94611,1595000.0,3,2.5,2682,594.705,large,1.2,higher
+796,3225 Dakota St,Oakland,CA,94602,799000.0,2,1.5,1306,611.792,small,1.333,lower
+797,6799 Skyview Dr,Oakland,CA,94605,1619040.0,4,2.5,2903,557.713,large,1.6,higher
+798,4146 Norton Ave,Oakland,CA,94602,1095000.0,3,2.0,1616,677.599,medium,1.5,higher
+799,7975 Hillmont Dr,Oakland,CA,94605,789000.0,3,1.0,1127,700.089,small,3.0,lower
+800,1121 40th St #5203,Emeryville,CA,94608,385000.0,1,1.0,507,759.369,small,1.0,lower
+801,10468 West Ct,Oakland,CA,94603,599888.0,3,2.0,1196,501.579,small,1.5,lower
+802,3856 Maybelle Ave,Oakland,CA,94619,538500.0,2,1.5,1036,519.788,small,1.333,lower
+803,1405 Harmon St,Berkeley,CA,94702,1098000.0,3,2.0,1304,842.025,small,1.5,higher
+804,1121 40th St #5303,Emeryville,CA,64608,369000.0,1,1.0,507,727.811,small,1.0,lower
+805,9015 Castlewood St,Oakland,CA,94605,899000.0,3,2.0,1364,659.091,small,1.5,lower
+806,5400 Broadway Ter #201,Oakland,CA,94618,859000.0,2,2.0,1030,833.981,small,1.0,lower
+807,1101 Peralta St,Oakland,CA,94607,549500.0,5,2.0,2872,191.33,large,2.5,lower
+808,6931 Simson St,Oakland,CA,94605,399000.0,2,1.0,830,480.723,small,2.0,lower
+809,1531 77th Ave,Oakland,CA,94621,599000.0,3,1.5,1237,484.236,small,2.0,lower
+812,1 W Embarcadero W #362,Oakland,CA,94607,569000.0,2,1.5,1050,541.905,small,1.333,lower
+813,441 37Th St,Oakland,CA,94609,1075000.0,3,2.0,1926,558.152,medium,1.5,higher
+814,2167 Andrews St,Oakland,CA,94611,1049000.0,3,2.5,1469,714.091,small,1.2,lower
+815,1689 Woodhaven Way,Oakland,CA,94611,965000.0,1,1.0,925,1043.243,small,1.0,lower
+816,3417 Salisbury St,Oakland,CA,94601,900000.0,4,1.0,1369,657.414,small,4.0,lower
+817,1042 Leo Way,Oakland,CA,94611,1200000.0,4,2.0,1910,628.272,medium,2.0,higher
+818,5767 Mendocino Ave,Oakland,CA,94618,1399000.0,3,1.0,1478,946.549,small,3.0,higher
+821,51 Chelton Ln,Oakland,CA,94611,1198000.0,4,2.0,1600,748.75,medium,2.0,higher
+822,250 Capricorn Ave,Oakland,CA,94611,889000.0,3,2.0,1176,755.952,small,1.5,lower
+823,1720 46th Ave,Oakland,CA,94601,638000.0,4,2.5,1452,439.394,small,1.6,lower
+825,200 Caldecott Ln #110,Oakland,CA,94618,709900.0,2,2.0,1119,634.406,small,1.0,lower
+826,5447 Wadean Pl,Oakland,CA,94601,549000.0,3,1.0,960,571.875,small,3.0,lower
+827,535 30Th St,Oakland,CA,94609,1225000.0,4,3.0,1904,643.382,medium,1.333,higher
+829,2636 38th Ave,Oakland,CA,94619,839999.0,5,2.0,1473,570.264,small,2.5,lower
+830,1007 41st St #112,Emeryville,CA,94608,439000.0,1,1.0,668,657.186,small,1.0,lower
+831,3381 Victor Ave,Oakland,CA,94602,999500.0,3,3.0,1826,547.371,medium,1.0,lower
+832,8333 International Blvd,Oakland,CA,94621,380000.0,3,1.5,1508,251.989,medium,2.0,lower
+833,4957 Desmond St,Oakland,CA,94618,1650000.0,5,3.5,3126,527.831,large,1.429,higher
+834,989 Franklin St #610,Oakland,CA,94107,410000.0,1,1.0,524,782.443,small,1.0,lower
+835,4117 Penniman Ave,Oakland,CA,94619,599000.0,2,1.0,799,749.687,small,2.0,lower
+836,222 Broadway #801,Oakland,CA,94607,1095000.0,2,2.5,1292,847.523,small,0.8,higher
+837,3683 Lily St,Oakland,CA,94619,1228000.0,4,2.5,2025,606.42,medium,1.6,higher
+838,2246 Ransom Ave,Oakland,CA,94601,698000.0,3,1.0,1120,623.214,small,3.0,lower
+839,1192 71St Ave,Oakland,CA,94621,715000.0,7,4.0,2576,277.562,large,1.75,lower
+842,1507 67Th Ave,Oakland,CA,94621,599000.0,3,2.0,1252,478.435,small,1.5,lower
+844,5835 THORNHILL Dr #1,Oakland,CA,94611,425000.0,1,1.0,670,634.328,small,1.0,lower
+845,6227 Ascot Dr,Oakland,CA,94611,1350000.0,3,2.5,3090,436.893,large,1.2,higher
+846,300 Caldecott Ln #207,Oakland,CA,94618,505000.0,1,1.0,773,653.299,small,1.0,lower
+847,7046 Outlook Ave,Oakland,CA,94605,799000.0,3,2.0,1184,674.831,small,1.5,lower
+848,4826 Allendale Ave,Oakland,CA,94619,995000.0,3,2.5,2394,415.622,medium,1.2,lower
+849,5133 Camden St,Oakland,CA,94619,1098000.0,3,3.0,1940,565.979,medium,1.0,higher
+850,1546 3rd Ave,Oakland,CA,94606,898000.0,3,2.0,2096,428.435,medium,1.5,lower
+851,3800 Maybelle Ave #4,Oakland,CA,94619,499000.0,2,1.5,1031,483.996,small,1.333,lower
+852,264 Saint James Dr,Piedmont,CA,94611,2250000.0,4,3.0,2516,894.277,large,1.333,higher
+853,678 62Nd St,Oakland,CA,94609,998000.0,6,2.5,3091,322.873,large,2.4,lower
+854,410 Webster St #7,Oakland,CA,94607,385000.0,1,1.0,436,883.028,small,1.0,lower
+855,4000 Greenwood Ave,Oakland,CA,94602,1950000.0,5,3.0,3169,615.336,large,1.667,higher
+856,2557 Potomac,Oakland,CA,94602,1058000.0,3,2.0,1206,877.28,small,1.5,higher
+857,3770 35Th Ave,Oakland,CA,94619,525000.0,2,1.0,840,625.0,small,2.0,lower
+859,2572 60th Ave,Oakland,CA,34605,644900.0,4,2.0,2822,228.526,large,2.0,lower
+860,630 Thomas L Berkley Way #510,Oakland,CA,94612,749000.0,2,2.0,1341,558.538,small,1.0,lower
+861,850 West Grand Ave #3,Oakland,CA,94607,549900.0,1,2.0,1563,351.823,medium,0.5,lower
+862,1615 Auseon Ave,Oakland,CA,94621,535000.0,3,1.0,1294,413.447,small,3.0,lower
+863,2568 Humboldt Ave,Oakland,CA,94601,949000.0,3,2.0,1185,800.844,small,1.5,lower
+864,2037 19Th Ave,Oakland,CA,94606,699000.0,3,2.0,1120,624.107,small,1.5,lower
+865,4241 Maple Ave,Oakland,CA,94602,1798000.0,4,4.0,3151,570.613,large,1.0,higher
+867,4866 Harbord Dr,Oakland,CA,94618,1195000.0,3,2.0,1438,831.015,small,1.5,higher
+868,1124 Hollywood Ave #3,Oakland,CA,94602,599000.0,1,1.0,894,670.022,small,1.0,lower
+869,5026 Foothill Blvd,Oakland,CA,94601,599000.0,3,3.5,1260,475.397,small,0.857,lower
+870,2201 Coloma St,Oakland,CA,94602,765000.0,2,1.0,1070,714.953,small,2.0,lower
+871,3906 Forest Hill Ave,Oakland,CA,94602,1200000.0,3,2.0,1317,911.162,small,1.5,higher
+872,873 Wood St,Oakland,CA,94607,800000.0,4,2.0,1636,488.998,medium,2.0,lower
+873,958 28th St #5,Oakland,CA,94608,698000.0,1,1.0,1056,660.985,small,1.0,lower
+874,240 Caldecott #212,Oakland,CA,94618,505000.0,1,1.0,773,653.299,small,1.0,lower
+876,901 Jefferson St #317,Oakland,CA,94607,569000.0,1,1.0,690,824.638,small,1.0,lower
+877,2423 9Th Ave,Oakland,CA,94606,899000.0,4,3.0,1607,559.428,medium,1.333,lower
+878,3875 Fairway Ave,Oakland,CA,94605,1498888.0,4,3.0,2481,604.147,medium,1.333,higher
+879,18 Windward Hl,Oakland,CA,94618,1695000.0,3,2.5,2112,802.557,medium,1.2,higher
+882,3360 Dwight Way,Berkeley,CA,94704,1995000.0,4,4.0,2976,670.363,large,1.0,higher
+883,3953 TURNLEY Ave,Oakland,CA,94605,1150000.0,4,2.0,1660,692.771,medium,2.0,higher
+884,5728 Moraga Ave,Oakland,CA,94611,1795000.0,4,3.0,2653,676.593,large,1.333,higher
+885,8106 Holly St,Oakland,CA,94621,400000.0,3,2.0,900,444.444,small,1.5,lower
+886,1514 69Th Ave,Oakland,CA,94621,525000.0,3,1.0,1233,425.791,small,3.0,lower
+887,5926 Dover St,Oakland,CA,94609,1975000.0,4,3.0,2412,818.823,medium,1.333,higher
+888,2316 Ransom Ave,Oakland,CA,94601,599950.0,3,2.0,1020,588.186,small,1.5,lower
+889,1428 Madison St #305,Oakland,CA,94612,358800.0,1,1.0,554,647.653,small,1.0,lower
+890,950 39Th St,Oakland,CA,94608,1010000.0,2,2.0,1132,892.226,small,1.0,lower
+891,222 Broadway #1107,Oakland,CA,94607,898000.0,2,2.5,1269,707.644,small,0.8,lower
+892,1200 65TH St #306,Emeryville,CA,94608,849000.0,2,1.5,1429,594.122,small,1.333,lower
+893,165 8th St,Oakland,CA,94607,935000.0,4,2.0,1639,570.47,medium,2.0,lower
+894,1121 40Th St #3402,Emeryville,CA,94608,419600.0,1,1.0,622,674.598,small,1.0,lower
+895,2120 Rosedale Ave,Oakland,CA,94601,649000.0,3,1.0,1347,481.811,small,3.0,lower
+896,9331 Empire Rd,Oakland,CA,94603,625000.0,3,1.0,1094,571.298,small,3.0,lower
+897,1418 8th St,Oakland,CA,94607,947000.0,3,2.0,2570,368.482,large,1.5,lower
+898,2551 Castello St,Oakland,CA,94602,999000.0,3,2.5,1852,539.417,medium,1.2,lower
+899,244 Lakeside Dr #17,Oakland,CA,94612,1695000.0,3,2.0,2456,690.147,medium,1.5,higher
+900,1669 85th Ave,Oakland,CA,94621,939000.0,7,3.0,3152,297.906,large,2.333,lower
+902,1036 30TH St,Oakland,CA,94608,925000.0,4,3.0,1987,465.526,medium,1.333,lower
+903,1477 Tucker St,Oakland,CA,94603,549000.0,2,2.5,1450,378.621,small,0.8,lower
+904,1238 94th Ave,Oakland,CA,94603,580000.0,4,2.0,1154,502.6,small,2.0,lower
+905,1839 W 108Th Ave,Oakland,CA,94603,699000.0,3,2.0,1963,356.088,medium,1.5,lower
+906,3435 Dimond Ave,Oakland,CA,94602,899000.0,2,2.0,1286,699.067,small,1.0,lower
+907,3204 60th Ave,Oakland,CA,94605,599000.0,2,2.0,930,644.086,small,1.0,lower
+909,5630 E 16Th St,Oakland,CA,94621,545000.0,3,1.0,1288,423.137,small,3.0,lower
+910,4701 Dunkirk Ave,Oakland,CA,94605,999000.0,3,2.0,1792,557.478,medium,1.5,lower
+912,1746 14th St,Oakland,CA,94607,1095000.0,3,2.5,1700,644.118,medium,1.2,higher
+913,1616 69Th Ave,Oakland,CA,94621,600000.0,2,1.0,800,750.0,small,2.0,lower
+914,2142 64th Ave,Oakland,CA,94621,475000.0,2,1.0,1044,454.981,small,2.0,lower
+915,6001 Valley View Rd,Oakland,CA,94611,679000.0,1,1.0,792,857.323,small,1.0,lower
+916,1841 E 24Th St,Oakland,CA,94606,599000.0,2,1.0,818,732.274,small,2.0,lower
+917,3328 Martin Luther King Jr Way,Oakland,CA,94609,699999.0,3,2.0,1660,421.686,medium,1.5,lower
+918,1755 Broadway #21,Oakland,CA,94612,498800.0,1,1.0,905,551.16,small,1.0,lower
+920,929 E 22nd St,Oakland,CA,94606,679000.0,2,1.0,972,698.56,small,2.0,lower
+921,4755 Fairfax Ave,Oakland,CA,94601,899000.0,4,2.0,1433,627.355,small,2.0,lower
+922,2478 66Th Ave,Oakland,CA,94605,632499.0,3,1.5,1239,510.492,small,2.0,lower
+923,2941 Minna Ave,Oakland,CA,94619,775000.0,3,1.5,2100,369.048,medium,2.0,lower
+924,7523 Outlook Ave,Oakland,CA,94605,1350000.0,6,2.5,2953,457.162,large,2.4,higher
+927,3218 Market St,Oakland,CA,94608,798000.0,3,2.0,1701,469.136,medium,1.5,lower
+928,428 Alice St #707,Oakland,CA,94607,798000.0,2,2.0,1079,739.574,small,1.0,lower
+929,1 Lakeside Dr #1809,Oakland,CA,94612,680000.0,1,1.0,835,814.371,small,1.0,lower
+930,1121 40Th St #4304,Emeryville,CA,94608,403700.0,1,1.0,622,649.035,small,1.0,lower
+931,4116 Mountain View Ave,Oakland,CA,94605,849000.0,3,2.0,1281,662.763,small,1.5,lower
+932,3229 Monterey Blvd,Oakland,CA,94602,1499999.0,5,3.0,2620,572.519,large,1.667,higher
+933,3926 Columbian Dr,Oakland,CA,94605,995000.0,4,3.0,2777,358.3,large,1.333,lower
+934,4721 Brookdale Ave,Oakland,CA,94619,998000.0,3,2.0,1728,577.546,medium,1.5,lower
+935,247 4th St #100,Oakland,CA,94607-4303,524999.0,1,1.5,840,624.999,small,0.667,lower
+936,3518 Meadow St,Oakland,CA,94601,850000.0,5,3.0,2482,342.466,medium,1.667,lower
+937,585 9th St #556,Oakland,CA,94607,589000.0,1,1.0,805,731.677,small,1.0,lower
+938,Undisclosed Address,Oakland,CA,94605,975000.0,3,1.0,1040,937.5,small,3.0,lower
+939,2545 Havenscourt Blvd,Oakland,CA,94605,600000.0,3,1.5,1431,419.287,small,2.0,lower
+940,1630 61st Ave,Oakland,CA,94621,658888.0,6,2.0,2424,271.818,medium,3.0,lower
+941,6465 San Pablo Ave Unit 4-3,Oakland,CA,94608,549000.0,2,2.0,972,564.815,small,1.0,lower
+943,131 Temescal Cir,Emeryville,CA,94608,760000.0,3,2.0,1198,634.391,small,1.5,lower
+944,1250 Powell St #10,Emeryville,CA,94608,720000.0,1,1.5,985,730.964,small,0.667,lower
+945,166 Santa Rosa Ave,Oakland,CA,94610,1385000.0,5,3.0,2136,648.408,medium,1.667,higher
+946,39681 Catamaran Ct,Fremont,CA,94538,1300000.0,3,2.0,1067,1218.369,small,1.5,higher
+947,48477 Ursa Dr,Fremont,CA,94539,1799000.0,3,2.5,1852,971.382,medium,1.2,higher
+948,5254 Silver Reef Dr,Fremont,CA,94538,1100000.0,3,2.0,1116,985.663,small,1.5,higher
+949,47493 Cholla St,Fremont,CA,94539,1774900.0,4,2.0,1964,903.717,medium,2.0,higher
+950,38727 Huntington Cir,Fremont,CA,94536,950000.0,2,2.5,1248,761.218,small,0.8,lower
+951,40687 Penstemon Ter,Fremont,CA,94538,1299000.0,4,4.0,1975,657.722,medium,1.0,higher
+952,1765 Valdez Way,Fremont,CA,94539,1949888.0,3,3.0,1696,1149.698,medium,1.0,higher
+953,38888 Salmon Ter,Fremont,CA,94536,1020000.0,3,2.5,1400,728.571,small,1.2,lower
+954,1259 Filton Ct,Fremont,CA,94536,1199999.0,3,1.0,1014,1183.431,small,3.0,higher
+955,385 Manferd St,Milpitas,CA,95035,1499000.0,4,2.5,1943,771.487,medium,1.6,higher
+956,35929 Carnation Way,Fremont,CA,94536,1438000.0,3,2.0,1576,912.437,medium,1.5,higher
+957,836 Regan Way,Fremont,CA,94539,1999000.0,4,2.0,2028,985.7,medium,2.0,higher
+958,191 WENATCHEE Cmn #15,Fremont,CA,94539,780000.0,3,2.0,1214,642.504,small,1.5,lower
+959,34755 Potomac River Pl,Fremont,CA,94555,1469000.0,4,2.0,1773,828.539,medium,2.0,higher
+960,38627 Cherry Ln #79,Fremont,CA,94536,398000.0,1,1.0,628,633.758,small,1.0,lower
+962,2250 Kilowatt Way #207,Fremont,CA,94539,1178283.0,2,2.0,1743,676.009,medium,1.0,higher
+964,40751 Creston St,Fremont,CA,94538,1495000.0,4,2.0,1556,960.797,medium,2.0,higher
+965,4226 Stanley Ave,Fremont,CA,94538,1385000.0,3,2.0,1310,1057.252,small,1.5,higher
+966,370 Stacey Cmn #24,Fremont,CA,94539,665000.0,2,2.0,926,718.143,small,1.0,lower
+967,309 School St,Fremont,CA,94536,1249950.0,3,2.5,1850,675.649,medium,1.2,higher
+968,39329 Marbella Terraza,Fremont,CA,94538,919888.0,2,3.0,1578,582.946,medium,0.667,lower
+969,3768 Capitol Ave Unit 418B,Fremont,CA,94538,899000.0,2,2.0,1109,810.64,small,1.0,lower
+971,3425 Inspiration Way #202,Fremont,CA,94538,1208733.0,3,2.0,1771,682.514,medium,1.5,higher
+972,37759 3rd St,Fremont,CA,94536,999999.0,2,2.0,1152,868.055,small,1.0,lower
+973,4650 Falstaff Ave,Fremont,CA,94555,1575000.0,3,2.0,1494,1054.217,small,1.5,higher
+974,46876 Shale Cmn #142,Fremont,CA,94539,699800.0,2,2.0,936,747.65,small,1.0,lower
+976,38201 Logan Dr,Fremont,CA,94536,2343000.0,4,2.0,2281,1027.181,medium,2.0,higher
+977,134 Hackamore Ln,Fremont,CA,94539,689000.0,2,2.0,740,931.081,small,1.0,lower
+978,40879 Blacow Rd,Fremont,CA,94538,1208000.0,3,2.0,1175,1028.085,small,1.5,higher
+980,3601 Integration Cmn,Fremont,CA,94538,1343880.0,4,3.5,2086,644.238,medium,1.143,higher
+981,4934 Seneca Park Loop,Fremont,CA,94538,1599999.0,4,2.5,2097,762.994,medium,1.6,higher
+982,40817 Tomales Ter,Fremont,CA,94538,1198000.0,3,3.0,1712,699.766,medium,1.0,higher
+983,37225 Towers Way,Fremont,CA,94536,858800.0,3,1.0,987,870.111,small,3.0,lower
+984,3216 Bruce Dr,Fremont,CA,94539,1999000.0,3,3.0,1920,1041.146,medium,1.0,higher
+986,4146 Jacinto Dr,Fremont,CA,94536,1390000.0,3,2.0,1730,803.468,medium,1.5,higher
+987,47337 Royce Falls Ter,Fremont,CA,94539,1248000.0,3,3.5,2242,556.646,medium,0.857,higher
+988,38455 Bronson St #322,Fremont,CA,94536,499000.0,2,1.0,950,525.263,small,2.0,lower
+989,711 Old Canyon Rd #176,Fremont,CA,94536-1726,289888.0,2,2.0,1120,258.829,small,1.0,lower
+990,40444 Citrus Dr,Fremont,CA,94538,1100000.0,3,1.0,1200,916.667,small,3.0,higher
+991,1908 Reflection Common 101,Fremont,CA,94539,1808630.0,4,3.5,2453,737.313,medium,1.143,higher
+992,3512 Vision Common 320,Fremont,CA,94538,933880.0,3,2.0,1495,624.669,small,1.5,lower
+993,3695 Stevenson Blvd Unit E208,Fremont,CA,94538,700000.0,2,2.0,1040,673.077,small,1.0,lower
+994,2715 Barrington Ter,Fremont,CA,94536,1550000.0,3,3.0,1466,1057.299,small,1.0,higher
+995,3593 Integration Cmn,Fremont,CA,94538,1306535.0,3,3.5,1891,690.923,medium,0.857,higher
+997,4038 Central Ave #306,Fremont,CA,94536,879000.0,2,2.5,1210,726.446,small,0.8,lower
+998,39262 Logan Dr,Fremont,CA,94538,1295000.0,4,2.0,1948,664.784,medium,2.0,higher
+999,4685 Cambio Ct,Fremont,CA,94536,1350000.0,4,4.0,2306,585.429,medium,1.0,higher
+1000,2460 Night Shade Ln,Fremont,CA,94539,1588000.0,4,2.5,2252,705.151,medium,1.6,higher
+1001,5225 Morris Way,Fremont,CA,94536,1298000.0,4,2.0,1265,1026.087,small,2.0,higher
+1002,39123 Walnut Ter,Fremont,CA,94536,564800.0,2,1.0,732,771.585,small,2.0,lower
+1003,4303 Cahill St,Fremont,CA,94538,1197000.0,3,2.0,1201,996.669,small,1.5,higher
+1004,37481 Summer Holly Cmn,Fremont,CA,94536,1380000.0,4,2.5,1866,739.55,medium,1.6,higher
+1006,34109 Susa Ter,Fremont,CA,94555,1500000.0,4,3.5,1969,761.808,medium,1.143,higher
+1007,3635 Silicon Cmn,Fremont,CA,94538,1558607.0,4,3.5,2156,722.916,medium,1.143,higher
+1009,34231 Perry Glen Ter,Union City,CA,94587,2499000.0,4,3.0,2273,1099.428,medium,1.333,higher
+1010,2348 Kinetic Cmn #106,Fremont,CA,94539,1150000.0,2,2.0,1688,681.28,medium,1.0,higher
+1011,45250 Volt Ter #102,Fremont,CA,94539,1690000.0,4,3.5,2493,677.898,medium,1.143,higher
+1012,38739 Aurora Ter,Fremont,CA,94536,650000.0,2,1.5,1120,580.357,small,1.333,lower
+1013,4547 Glenn St,Fremont,CA,94536,555000.0,2,1.0,964,575.726,small,2.0,lower
+1014,44818 Wisdom Rd #1001,Fremont,CA,94538,1339357.0,3,3.0,2218,603.858,medium,1.0,higher
+1015,3698 Vision Cmn Unit 221,Fremont,CA,94538,834880.0,2,2.0,1049,795.882,small,1.0,lower
+1016,3698 Vision Cmn Unit 211,Fremont,CA,94538,787880.0,2,2.0,1014,777.002,small,1.0,lower
+1017,38133 Fremont Blvd,Fremont,CA,94536,2750000.0,4,4.5,3372,815.54,large,0.889,higher
+1018,33711 Farmhouse Ct,Fremont,CA,94555,2450000.0,4,3.0,2579,949.981,large,1.333,higher
+1019,3425 Inspiration Way #301,Fremont,CA,94538,1249059.0,3,2.0,1866,669.378,medium,1.5,higher
+1020,3803 Lake Ontario Dr,Fremont,CA,94555,1288898.0,4,2.0,1444,892.589,small,2.0,higher
+1021,2348 Kinetic Cmn #207,Fremont,CA,94538,1185000.0,2,2.0,1766,671.008,medium,1.0,higher
+1022,37168 Meadowbrook Cmn #201,Fremont,CA,94536,480000.0,2,1.0,934,513.919,small,2.0,lower
+1023,38627 Cherry Ln #77,Fremont,CA,94536,420000.0,1,1.0,628,668.79,small,1.0,lower
+1024,37891 3rd St,Fremont,CA,94536,899000.0,2,2.0,939,957.401,small,1.0,lower
+1025,598 Ginkgo Ter,Fremont,CA,94539,1748000.0,4,3.5,2045,854.768,medium,1.143,higher
+1026,39940 Fremont Blvd #6,Fremont,CA,94538,441111.0,1,1.0,730,604.262,small,1.0,lower
+1027,42111 Osgood Rd #214,Fremont,CA,94539,643800.0,2,2.0,906,710.596,small,1.0,lower
+1028,1918 Kilowatt Way #101,Fremont,CA,94539,1800260.0,4,3.5,2460,731.813,medium,1.143,higher
+1029,163 Dora Falls Ter,Fremont,CA,94539,950000.0,2,2.0,1515,627.063,medium,1.0,lower
+1030,42111 Osgood Rd #504,Fremont,CA,94539,797800.0,3,2.0,1082,737.338,small,1.5,lower
+1031,42111 Osgood Rd #525,Fremont,CA,94539,607800.0,1,1.0,934,650.749,small,1.0,lower
+1032,42111 Osgood Rd #422,Fremont,CA,94539,663800.0,2,2.0,906,732.671,small,1.0,lower
+1033,39109 Guardino Dr #237,Fremont,CA,94538,478000.0,1,1.0,693,689.755,small,1.0,lower
+1034,42111 Osgood Rd #315,Fremont,CA,94539,783800.0,3,2.0,1118,701.073,small,1.5,lower
+1035,42111 Osgood Rd #221,Fremont,CA,94539,598800.0,1,1.0,1017,588.791,small,1.0,lower
+1036,38228 Paseo Padre Pkwy #31,Fremont,CA,94536,525000.0,2,2.0,933,562.701,small,1.0,lower
+1037,42111 Osgood Rd #428,Fremont,CA,94539,999800.0,3,2.0,1602,624.095,medium,1.5,lower
+1038,42111 Osgood Rd #223,Fremont,CA,94539,548800.0,1,1.0,865,634.451,small,1.0,lower
+1039,42111 Osgood Rd #216,Fremont,CA,94539,864800.0,3,3.0,1366,633.089,small,1.0,lower
+1041,47112 Warm Springs Blvd #239,Fremont,CA,94539,420000.0,1,1.0,760,552.632,small,1.0,lower
+1042,70 Delta Ter,Fremont,CA,94538,305000.0,3,2.0,1392,219.109,small,1.5,lower
+1045,35364 Fremont Blvd,Fremont,CA,94536,1000000.0,2,1.0,1133,882.613,small,2.0,lower
+1046,3698 Vision Cmn Unit 115,Fremont,CA,94538,724880.0,2,2.0,977,741.945,small,1.0,lower
+1047,3698 Vision Cmn Unit 109,Fremont,CA,94538,529880.0,1,1.0,682,776.95,small,1.0,lower
